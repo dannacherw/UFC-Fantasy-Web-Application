@@ -1,0 +1,3481 @@
+{
+  "scraped_at": "2026-03-27T18:10:44.875Z",
+  "fighter_count": 695,
+  "fighters": [
+    {
+      "name": "Adrian Yanez",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "AI Judge",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Aiemann Zahabi",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Aleksandre Topuria",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Angel Pacheco",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Bekzat Almakhan",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Benardo Sopaj",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Brady Hiestand",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Bryce Mitchell",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Cameron Saaiman",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Cameron Smotherman",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Carlos Vera",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Chad Anheliger",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "ChangHo Lee",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Charles Jourdain",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Chris Gutierrez",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Cody Garbrandt",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Cody Gibson",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Cody Haddon",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Colby Thicknesse",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Cory Sandhagen",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Cristian Quinonez",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Da'Mon Blackshear",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Daniel Marcos",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Daniel Santos",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Davey Grant",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "David Martinez",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Deiveson Figueiredo",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Douglas Silva de Andrade",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Elijah Smith",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Ethyn Ewing",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Farid Basharat",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Felipe Lima",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Garrett Armfield",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Gaston Bolanos",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Hecher Sosa",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Jakub Wiklacz",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Jean Matsumoto",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "John Castaneda",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Jonathan Martinez",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Josias Musasa",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Juan Martinetti",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Kyler Phillips",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Luan Lacerda",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Malcolm Wellmaker",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Marcus McGhee",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Mario Bautista",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Mark Vologdin",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Marlon Vera",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Matt Schnell",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Merab Dvalishvili",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Miles Johns",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Montel Jackson",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Muin Gafurov",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Nathan Fletcher",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Ode Osbourne",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Payton Talbott",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Pedro Munhoz",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Petr Yan",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Rafael Estevam",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Ramon Taveras",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Rani Yahya",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Raoni Barcelos",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Raul Rosas Jr.",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Ricky Simon",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Ricky Turcios",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Rinya Nakamura",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Rob Font",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Said Nurmagomedov",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Saimon Oliveira",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Santiago Luna",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Sean O'Malley",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Serhiy Sidey",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Song Yadong",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Steve Erceg",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "SuYoung You",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Tim Elliott",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Timmy Cuamba",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Toshiomi Kazama",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Umar Nurmagomedov",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Victor Henry",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Vince Morales",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Vinicius Oliveira",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Xiao Long",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Aaron Pico",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "AI Judge",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Aiemann Zahabi",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Alberto Montes",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Alexander Volkanovski",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Aljamain Sterling",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Andre Fili",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Arnold Allen",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Austin Bashi",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Billy Quarantillo",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Bogdan Grad",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Brian Ortega",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Bryce Mitchell",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Calvin Kattar",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Chepe Mariscal",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Chris Gutierrez",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Christian Rodriguez",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Cub Swanson",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Dan Ige",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Daniel Santos",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Danny Silva",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Darren Elkins",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "David Onama",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Dennis Buzukja",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Diego Lopes",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Dooho Choi",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Douglas Silva de Andrade",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Edson Barboza",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Ethyn Ewing",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Farid Basharat",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Felipe Lima",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Fernando Padilla",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Francis Marshall",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Gabriel Santos",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Giga Chikadze",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Harry Hardwick",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Hyder Amil",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Ilia Topuria",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Isaac Thomson",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Jack Jenkins",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Jamall Emmers",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Javier Reyes",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Jean Silva",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "JeongYeong Lee",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Joanderson Brito",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "John Castaneda",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "John Yannis",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "JooSang Yoo",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Jordan Leavitt",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Jose Delano",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Jose Delgado",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Josh Emmett",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Julian Erosa",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Kaan Ofli",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Kevin Vallejos",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Kurtis Campbell",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Kyle Nelson",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Lando Vannata",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Lerone Murphy",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Lerryan Douglas",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Losene Keita",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Luke Riley",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Mairon Santos",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Malcolm Wellmaker",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Manolo Zecchini",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Marcio Barbosa",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Marwan Rahiki",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Max Holloway",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Melquizael Costa",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Melsik Baghdasaryan",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Michael Aswell Jr.",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Miles Johns",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Morgan Charriere",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Movsar Evloev",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Muhammad Naimov",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Nate Landwehr",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Nathan Fletcher",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Nathaniel Wood",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Pat Sabatini",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Patricio Freire",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Ricky Turcios",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Robert Ruchala",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Roberto Romero",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Sean Woodson",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Shayilan Nuerdanbieke",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Sodiq Yusuff",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Steve Garcia",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Steven Nguyen",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Timmy Cuamba",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Tommy McMillen",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "William Gomis",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Yadier del Valle",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Yair Rodriguez",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Youssef Zalal",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "AI Judge",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Alden Coria",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Alessandro Costa",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Alex Perez",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Alexandre Pantoja",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Alibi Idiris",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Allan Nascimento",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Amir Albazi",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Andre Lima",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Asu Almabayev",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Brandon Moreno",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Brandon Royval",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Bruno Gustavo da Silva",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Charles Johnson",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Clayton Carpenter",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Cody Durden",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Daniel Barez",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "DongHun Choi",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Edgar Chairez",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "HyunSung Park",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Imanol Rodriguez",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Jafel Filho",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Jesus Aguilar",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Jose Ochoa",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Joseph Morales",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Joshua Van",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Kai Asakura",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Kai Kara-France",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Kevin Borjas",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Kyoji Horiguchi",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Lone'er Kavanagh",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Lucas Rocha",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Luis Gurule",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Manel Kape",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Matt Schnell",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Mitch Raposo",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Nyamjargal Tumendemberel",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Ode Osbourne",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Rafael Estevam",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Ramazan Temirov",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Rei Tsuruya",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Ronaldo Rodriguez",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Steve Erceg",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Stewart Nicoll",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Tagir Ulanbekov",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Tatsuro Taira",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Terrance Saeteurn",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Tim Elliott",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "AI Judge",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Alex Pereira",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Alexander Volkov",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Allen Frye Jr.",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Ante Delija",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Austen Lane",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Brando Pericic",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Ciryl Gane",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Curtis Blaydes",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Denzel Freeman",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Derrick Lewis",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Elisha Ellison",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Felipe Franco",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Gokhan Saricam",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Guilherme Pat",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Jailton Almeida",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Jhonata Diniz",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Josh Hokit",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Kennedy Nzechukwu",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Louie Sutherland",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Marcin Tybura",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Marcus Buchecha",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Mario Pinto",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Max Gimenis",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Mick Parkin",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Rizvan Kuniev",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Ryan Spann",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Sean Sharaf",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Sergei Pavlovich",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Serghei Spivac",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Shamil Gaziev",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Steven Asplund",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Tai Tuivasa",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Tallison Teixeira",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Tanner Boser",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Thomas Petersen",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Tom Aspinall",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Tyrell Fortune",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Uran Satybaldiev",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Valter Walker",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Vitor Petrino",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Waldo Cortes-Acosta",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Abdul Rakhman Yakhyaev",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "AI Judge",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Aleksandar Rakic",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Alex Pereira",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Alonzo Menifield",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Austen Lane",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Azamat Murzakanov",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Billy Elekana",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Bogdan Guskov",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Brendson Ribeiro",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Bruno Lopes",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Carlos Ulberg",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Cody Brundage",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Diyar Nurgozhay",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Dominick Reyes",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Dustin Jacoby",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Eric McConico",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Ibo Aslan",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Ion Cutelaba",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Ivan Erslan",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Iwo Baraniewski",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Jamahal Hill",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Jan Blachowicz",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Jimmy Crute",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Jiri Prochazka",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Johnny Walker",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Julius Walker",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Junior Tafa",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Kevin Christian",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Khalil Rountree Jr.",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Luke Fernandez",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Magomed Ankalaev",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Modestas Bukauskas",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Navajo Stirling",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Nikita Krylov",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Oumar Sy",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Ozzy Diaz",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Paulo Costa",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Rafael Tobias",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Rodolfo Bellato",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Ryan Spann",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Tanner Boser",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Tuco Tokkos",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Uran Satybaldiev",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Volkan Oezdemir",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Zhang Mingyang",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Abdul-Kareem Al-Selwady",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "AI Judge",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Alex Reyes",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Alexander Hernandez",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Anshul Jubli",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Arman Tsarukyan",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Axel Sola",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Beneil Dariush",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Benoit Saint Denis",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Bolaji Oki",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Charles Oliveira",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Charlie Campbell",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Chase Hooper",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Chris Duncan",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Chris Padilla",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Claudio Puelles",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Damir Hadzovic",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Dan Hooker",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Daniel Zellhuber",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Darrius Flowers",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "David Onama",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Dennis Buzukja",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Diego Ferreira",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Drakkar Klose",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Drew Dober",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Edson Barboza",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Elves Brener",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Esteban Ribovics",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Evan Elder",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Fares Ziam",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Francis Marshall",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Francisco Prado",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Gabe Green",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Gauge Young",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Grant Dawson",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Harry Hardwick",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Ignacio Bahamondes",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Ilia Topuria",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Islam Makhachev",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Ismael Bonfim",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Jai Herbert",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Jalin Turner",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Jamie Mullarkey",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Jared Gordon",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Jeremy Stephens",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Jim Miller",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Joaquim Silva",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Joel Alvarez",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Jordan Leavitt",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Justin Gaethje",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Kaue Fernandes",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "King Green",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Kody Steele",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Kyle Nelson",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Kyle Prepolec",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Lance Gibson Jr.",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Lando Vannata",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Ludovit Klein",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Mairon Santos",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Mandel Nallo",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Manoel Sousa",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Manuel Torres",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Mark Choinski",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "MarQuel Mederos",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Mason Jones",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Mateusz Gamrot",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Mateusz Rebecki",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Matheus Camilo",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Matt Frevola",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Mauricio Ruffy",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Max Holloway",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Michael Aswell Jr.",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Michael Chandler",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Michael Johnson",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Mike Davis",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Mitch Ramirez",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Myktybek Orolbai",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Nasrat Haqparast",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Nazim Sadykhov",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Nikolas Motta",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Nurullo Aliev",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Ottman Azaitar",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Paddy Pimblett",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Quillan Salkilld",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Rafa Garcia",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Rafael Dos Anjos",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Rafael Fiziev",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Renato Moicano",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Roberto Romero",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Samuel Sanches",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Shem Rock",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Sodiq Yusuff",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Terrance McKinney",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Thiago Moises",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Tofiq Musayev",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Tom Nolan",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Trevor Peek",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Trey Ogden",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Victor Martinez",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Abus Magomedov",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "AI Judge",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Aliaskhab Khizriev",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Andre Petroski",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Andrey Pulyaev",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Anthony Hernandez",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Antonio Trocoli",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Ateba Gautier",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Azamat Bekoev",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Baisangur Susurkaev",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Bo Nickal",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Brad Tavares",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Brendan Allen",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Brunno Ferreira",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Caio Borralho",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Cam Rowston",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Cesar Almeida",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Cezary Oleksiejczuk",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Chris Curtis",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Christian Leroy Duncan",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Cody Brundage",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Damian Pinas",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Djorden Santos",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Donte Johnson",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Dricus Du Plessis",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Dusko Todorovic",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Dustin Stoltzfus",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Edmen Shahbazyan",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Eric McConico",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Eric Nolan",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Gerald Meerschaert",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Gilbert Urbina",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Gregory Rodrigues",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Ikram Aliskerov",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Ismail Naurdiev",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Israel Adesanya",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Jack Hermansson",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Jackson McVey",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Jacob Malkoun",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Jared Cannonier",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Joe Pyfer",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Julien Leblanc",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "JunYong Park",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Kamaru Usman",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Kelvin Gastelum",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Khamzat Chimaev",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Kyle Daukaus",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Luis Dias de Assis",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Mansur Abdul-Malik",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Mantas Kondratavicius",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Marc-Andre Barriault",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Marco Tulio",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Marvin Vettori",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Michael Page",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Michal Oleksiejczuk",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Michel Pereira",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Nassourdine Imavov",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Nick Klein",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Nursulton Ruziboev",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Ozzy Diaz",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Paulo Costa",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Reinier de Ridder",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Robert Bryczek",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Robert Valentin",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Robert Whittaker",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Rodolfo Vieira",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Roman Dolidze",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Roman Kopylov",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Ryan Gandra",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Ryan Loder",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Sean Strickland",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Sedriques Dumas",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Shara Magomedov",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Torrez Finney",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Tresean Gore",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Treston Vines",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Vicente Luque",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Wellington Turman",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Wes Schultz",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Yousri Belgaroui",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Zachary Reese",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "AI Judge",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Alex Reyes",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Andreas Gustafsson",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Austin Vanderford",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Axel Sola",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Bassil Hafez",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Belal Muhammad",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Billy Ray Goff",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Carlos Leal",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Carlos Prates",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Carlston Harris",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Charles Radtke",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Chidi Njokuani",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Chris Curtis",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Christopher Alvidrez",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Colby Covington",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Court McGee",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Daniel Frunza",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Daniel Rodriguez",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Daniil Donchenko",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Darrius Flowers",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Evan Elder",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Francisco Prado",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Gabe Green",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Gabriel Bonfim",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Geoff Neal",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Gilbert Burns",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Gilbert Urbina",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Gunnar Nelson",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Ian Machado Garry",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Islam Dulatov",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Islam Makhachev",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Jack Della Maddalena",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Jack Hermansson",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Jacobe Smith",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Jake Matthews",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Jean-Paul Lebosnoyani",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Jeremiah Wells",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Joaquin Buckley",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Joel Alvarez",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Jonathan Micallef",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Jose Henrique",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Josiah Harrell",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Kamaru Usman",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Kevin Holland",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Khaos Williams",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Leon Edwards",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Li Jingliang",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Max Griffin",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Michael Chiesa",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Michael Morales",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Michael Page",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Mickey Gall",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Mike Malott",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Muslim Salikhov",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Myktybek Orolbai",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Neil Magny",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Nicolas Dalby",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Niko Price",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Nikolay Veretennikov",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Oban Elliott",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Pete Rodriguez",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Punahele Soriano",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Rafael Dos Anjos",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Ramiz Brahimaj",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Randy Brown",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Rodrigo Sezinando",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Sam Patterson",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Santiago Ponzinibbio",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Saygid Izagakhmaev",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Sean Brady",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Seokhyeon Ko",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Shavkat Rakhmonov",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Song Kenan",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Stephen Thompson",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Taiyilake Nueraji",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Themba Gorimbo",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Tim Means",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Trey Waters",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Ty Miller",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Uros Medic",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Vicente Luque",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Wellington Turman",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Yaroslav Amosov",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "AI Judge",
+      "division": "Womens Bantamweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Ailin Perez",
+      "division": "Womens Bantamweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Alice Pereira",
+      "division": "Womens Bantamweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Amanda Nunes",
+      "division": "Womens Bantamweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Bia Mesquita",
+      "division": "Womens Bantamweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Chelsea Chandler",
+      "division": "Womens Bantamweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Daria Zhelezniakova",
+      "division": "Womens Bantamweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Hailey Cowan",
+      "division": "Womens Bantamweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Irene Aldana",
+      "division": "Womens Bantamweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Jacqueline Cavalcanti",
+      "division": "Womens Bantamweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Joselyne Edwards",
+      "division": "Womens Bantamweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Josiane Nunes",
+      "division": "Womens Bantamweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Julianna Pena",
+      "division": "Womens Bantamweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Karol Rosa",
+      "division": "Womens Bantamweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Kayla Harrison",
+      "division": "Womens Bantamweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Ketlen Vieira",
+      "division": "Womens Bantamweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Klaudia Sygula",
+      "division": "Womens Bantamweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Luana Carolina",
+      "division": "Womens Bantamweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Luana Santos",
+      "division": "Womens Bantamweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Macy Chiasson",
+      "division": "Womens Bantamweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Mayra Bueno Silva",
+      "division": "Womens Bantamweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Melissa Croden",
+      "division": "Womens Bantamweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Melissa Gatto",
+      "division": "Womens Bantamweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Melissa Mullins",
+      "division": "Womens Bantamweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Michelle Montague",
+      "division": "Womens Bantamweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Miesha Tate",
+      "division": "Womens Bantamweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Montserrat Rendon",
+      "division": "Womens Bantamweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Nora Cornolle",
+      "division": "Womens Bantamweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Norma Dumont",
+      "division": "Womens Bantamweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Priscila Cachoeira",
+      "division": "Womens Bantamweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Raquel Pennington",
+      "division": "Womens Bantamweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Ravena Oliveira",
+      "division": "Womens Bantamweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Tainara Lisboa",
+      "division": "Womens Bantamweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Yana Santos",
+      "division": "Womens Bantamweight",
+      "gender": "Women"
+    },
+    {
+      "name": "AI Judge",
+      "division": "Womens Flyweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Alexa Grasso",
+      "division": "Womens Flyweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Amanda Ribas",
+      "division": "Womens Flyweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Carli Judice",
+      "division": "Womens Flyweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Casey O'Neill",
+      "division": "Womens Flyweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Dione Barbosa",
+      "division": "Womens Flyweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Eduarda Moura",
+      "division": "Womens Flyweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Erin Blanchfield",
+      "division": "Womens Flyweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Ernesta Kareckaite",
+      "division": "Womens Flyweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Gabriella Fernandes",
+      "division": "Womens Flyweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Jamey-Lyn Horth",
+      "division": "Womens Flyweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Jasmine Jasudavicius",
+      "division": "Womens Flyweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Jeisla Chaves",
+      "division": "Womens Flyweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Jessica Andrade",
+      "division": "Womens Flyweight",
+      "gender": "Women"
+    },
+    {
+      "name": "JJ Aldrich",
+      "division": "Womens Flyweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Juliana Miller",
+      "division": "Womens Flyweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Karine Silva",
+      "division": "Womens Flyweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Katlyn Cerminara",
+      "division": "Womens Flyweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Lauren Murphy",
+      "division": "Womens Flyweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Luana Carolina",
+      "division": "Womens Flyweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Luana Santos",
+      "division": "Womens Flyweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Manon Fiorot",
+      "division": "Womens Flyweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Maycee Barber",
+      "division": "Womens Flyweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Mayra Bueno Silva",
+      "division": "Womens Flyweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Melissa Gatto",
+      "division": "Womens Flyweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Miesha Tate",
+      "division": "Womens Flyweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Miranda Maverick",
+      "division": "Womens Flyweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Natalia Silva",
+      "division": "Womens Flyweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Nicolle Caliari",
+      "division": "Womens Flyweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Rose Namajunas",
+      "division": "Womens Flyweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Sofia Montenegro",
+      "division": "Womens Flyweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Tereza Bleda",
+      "division": "Womens Flyweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Tracy Cortez",
+      "division": "Womens Flyweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Valentina Shevchenko",
+      "division": "Womens Flyweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Vanessa Demopoulos",
+      "division": "Womens Flyweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Veronica Hardy",
+      "division": "Womens Flyweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Wang Cong",
+      "division": "Womens Flyweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Yuneisy Duben",
+      "division": "Womens Flyweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Zhang Weili",
+      "division": "Womens Flyweight",
+      "gender": "Women"
+    },
+    {
+      "name": "AI Judge",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Alexia Thainara",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Alice Ardelean",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Amanda Lemos",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Amanda Ribas",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Angela Hill",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Ariane Carnelossi",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Bruna Brasil",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Carol Foro",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Denise Gomes",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Elise Reed",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Fatima Kline",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Feng Xiaocan",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Gillian Robertson",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Iasmin Lucindo",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Jaqueline Amorim",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Jessica Andrade",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Julia Polastri",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Karolina Kowalkiewicz",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Ketlen Souza",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Loma Lookboonmee",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Loopy Godinez",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Luana Pinheiro",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Mackenzie Dern",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Marnic Mann",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Montserrat Conejo Ruiz",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Piera Rodriguez",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Polyana Viana",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Puja Tomar",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Ravena Oliveira",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Rayanne dos Santos",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Sam Hughes",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Shanelle Dyer",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Shauna Bannon",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Shi Ming",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Stephanie Luciano",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Tabatha Ricci",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Talita Alencar",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Tatiana Suarez",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Vanessa Demopoulos",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Virna Jandiroba",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Yan Xiaonan",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Yazmin Jauregui",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Zhang Weili",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    }
+  ]
+}
