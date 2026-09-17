@@ -1,14 +1,14 @@
 {
-  "scraped_at": "2026-03-27T18:10:44.875Z",
-  "fighter_count": 695,
+  "scraped_at": "2026-09-17T22:39:50.005Z",
+  "fighter_count": 756,
   "fighters": [
     {
-      "name": "Adrian Yanez",
+      "name": "Abdul Hussein",
       "division": "Bantamweight",
       "gender": "Men"
     },
     {
-      "name": "AI Judge",
+      "name": "Adrian Yanez",
       "division": "Bantamweight",
       "gender": "Men"
     },
@@ -28,12 +28,12 @@
       "gender": "Men"
     },
     {
-      "name": "Bekzat Almakhan",
+      "name": "Benardo Sopaj",
       "division": "Bantamweight",
       "gender": "Men"
     },
     {
-      "name": "Benardo Sopaj",
+      "name": "Borislav Nikolic",
       "division": "Bantamweight",
       "gender": "Men"
     },
@@ -49,11 +49,6 @@
     },
     {
       "name": "Cameron Saaiman",
-      "division": "Bantamweight",
-      "gender": "Men"
-    },
-    {
-      "name": "Cameron Smotherman",
       "division": "Bantamweight",
       "gender": "Men"
     },
@@ -83,12 +78,17 @@
       "gender": "Men"
     },
     {
-      "name": "Cody Garbrandt",
+      "name": "Cody Chovancek",
       "division": "Bantamweight",
       "gender": "Men"
     },
     {
-      "name": "Cody Gibson",
+      "name": "Cody Durden",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Cody Garbrandt",
       "division": "Bantamweight",
       "gender": "Men"
     },
@@ -118,7 +118,7 @@
       "gender": "Men"
     },
     {
-      "name": "Daniel Marcos",
+      "name": "Dan Ige",
       "division": "Bantamweight",
       "gender": "Men"
     },
@@ -153,17 +153,17 @@
       "gender": "Men"
     },
     {
-      "name": "Ethyn Ewing",
-      "division": "Bantamweight",
-      "gender": "Men"
-    },
-    {
       "name": "Farid Basharat",
       "division": "Bantamweight",
       "gender": "Men"
     },
     {
       "name": "Felipe Lima",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Francesco Nuzzi",
       "division": "Bantamweight",
       "gender": "Men"
     },
@@ -183,7 +183,22 @@
       "gender": "Men"
     },
     {
+      "name": "Hector Santiago",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Jafel Filho",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
       "name": "Jakub Wiklacz",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Jamie Siraj",
       "division": "Bantamweight",
       "gender": "Men"
     },
@@ -198,6 +213,16 @@
       "gender": "Men"
     },
     {
+      "name": "John Garza",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "John Yannis",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
       "name": "Jonathan Martinez",
       "division": "Bantamweight",
       "gender": "Men"
@@ -208,7 +233,17 @@
       "gender": "Men"
     },
     {
+      "name": "Juan Diaz",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
       "name": "Juan Martinetti",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Kai Asakura",
       "division": "Bantamweight",
       "gender": "Men"
     },
@@ -218,7 +253,22 @@
       "gender": "Men"
     },
     {
-      "name": "Luan Lacerda",
+      "name": "Lawrence Lui",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Louis Jourdain",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Louis Lee Scott",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Luis Gurule",
       "division": "Bantamweight",
       "gender": "Men"
     },
@@ -248,7 +298,7 @@
       "gender": "Men"
     },
     {
-      "name": "Matt Schnell",
+      "name": "Mehemmedeli Osmanli",
       "division": "Bantamweight",
       "gender": "Men"
     },
@@ -273,12 +323,12 @@
       "gender": "Men"
     },
     {
-      "name": "Nathan Fletcher",
+      "name": "Ode Osbourne",
       "division": "Bantamweight",
       "gender": "Men"
     },
     {
-      "name": "Ode Osbourne",
+      "name": "Otari Tanzilovi",
       "division": "Bantamweight",
       "gender": "Men"
     },
@@ -288,17 +338,7 @@
       "gender": "Men"
     },
     {
-      "name": "Pedro Munhoz",
-      "division": "Bantamweight",
-      "gender": "Men"
-    },
-    {
       "name": "Petr Yan",
-      "division": "Bantamweight",
-      "gender": "Men"
-    },
-    {
-      "name": "Rafael Estevam",
       "division": "Bantamweight",
       "gender": "Men"
     },
@@ -319,6 +359,11 @@
     },
     {
       "name": "Raul Rosas Jr.",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Rei Tsuruya",
       "division": "Bantamweight",
       "gender": "Men"
     },
@@ -378,6 +423,11 @@
       "gender": "Men"
     },
     {
+      "name": "Steven Koslow",
+      "division": "Bantamweight",
+      "gender": "Men"
+    },
+    {
       "name": "SuYoung You",
       "division": "Bantamweight",
       "gender": "Men"
@@ -408,11 +458,6 @@
       "gender": "Men"
     },
     {
-      "name": "Vince Morales",
-      "division": "Bantamweight",
-      "gender": "Men"
-    },
-    {
       "name": "Vinicius Oliveira",
       "division": "Bantamweight",
       "gender": "Men"
@@ -424,11 +469,6 @@
     },
     {
       "name": "Aaron Pico",
-      "division": "Featherweight",
-      "gender": "Men"
-    },
-    {
-      "name": "AI Judge",
       "division": "Featherweight",
       "gender": "Men"
     },
@@ -508,11 +548,6 @@
       "gender": "Men"
     },
     {
-      "name": "Cub Swanson",
-      "division": "Featherweight",
-      "gender": "Men"
-    },
-    {
       "name": "Dan Ige",
       "division": "Featherweight",
       "gender": "Men"
@@ -524,11 +559,6 @@
     },
     {
       "name": "Danny Silva",
-      "division": "Featherweight",
-      "gender": "Men"
-    },
-    {
-      "name": "Darren Elkins",
       "division": "Featherweight",
       "gender": "Men"
     },
@@ -558,17 +588,7 @@
       "gender": "Men"
     },
     {
-      "name": "Edson Barboza",
-      "division": "Featherweight",
-      "gender": "Men"
-    },
-    {
       "name": "Ethyn Ewing",
-      "division": "Featherweight",
-      "gender": "Men"
-    },
-    {
-      "name": "Farid Basharat",
       "division": "Featherweight",
       "gender": "Men"
     },
@@ -589,6 +609,16 @@
     },
     {
       "name": "Gabriel Santos",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Gaston Bolanos",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Gianni Vazquez",
       "division": "Featherweight",
       "gender": "Men"
     },
@@ -643,6 +673,16 @@
       "gender": "Men"
     },
     {
+      "name": "Jeremy Stephens",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Jessie Rosas",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
       "name": "Joanderson Brito",
       "division": "Featherweight",
       "gender": "Men"
@@ -693,6 +733,11 @@
       "gender": "Men"
     },
     {
+      "name": "Kai Kamaka III",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
       "name": "Kevin Vallejos",
       "division": "Featherweight",
       "gender": "Men"
@@ -708,11 +753,6 @@
       "gender": "Men"
     },
     {
-      "name": "Lando Vannata",
-      "division": "Featherweight",
-      "gender": "Men"
-    },
-    {
       "name": "Lerone Murphy",
       "division": "Featherweight",
       "gender": "Men"
@@ -724,6 +764,11 @@
     },
     {
       "name": "Losene Keita",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Lucas Brennan",
       "division": "Featherweight",
       "gender": "Men"
     },
@@ -754,11 +799,6 @@
     },
     {
       "name": "Marwan Rahiki",
-      "division": "Featherweight",
-      "gender": "Men"
-    },
-    {
-      "name": "Max Holloway",
       "division": "Featherweight",
       "gender": "Men"
     },
@@ -798,17 +838,27 @@
       "gender": "Men"
     },
     {
+      "name": "Murtazali Magomedov",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
       "name": "Nate Landwehr",
       "division": "Featherweight",
       "gender": "Men"
     },
     {
-      "name": "Nathan Fletcher",
+      "name": "Nathaniel Wood",
       "division": "Featherweight",
       "gender": "Men"
     },
     {
-      "name": "Nathaniel Wood",
+      "name": "Ollie Schmid",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Otari Tanzilovi",
       "division": "Featherweight",
       "gender": "Men"
     },
@@ -819,6 +869,16 @@
     },
     {
       "name": "Patricio Freire",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Pavel Andrusca",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Ramiro Jimenez",
       "division": "Featherweight",
       "gender": "Men"
     },
@@ -838,12 +898,32 @@
       "gender": "Men"
     },
     {
+      "name": "Rodrigo Vera",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Roman Puga",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Ryan Kuse",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Sean King III",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
       "name": "Sean Woodson",
       "division": "Featherweight",
       "gender": "Men"
     },
     {
-      "name": "Shayilan Nuerdanbieke",
+      "name": "Shane Collins",
       "division": "Featherweight",
       "gender": "Men"
     },
@@ -863,12 +943,27 @@
       "gender": "Men"
     },
     {
-      "name": "Timmy Cuamba",
+      "name": "Taner Trembley",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Tom Pagliarulo",
       "division": "Featherweight",
       "gender": "Men"
     },
     {
       "name": "Tommy McMillen",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Trevor Peek",
+      "division": "Featherweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Vinicius Oliveira",
       "division": "Featherweight",
       "gender": "Men"
     },
@@ -893,8 +988,8 @@
       "gender": "Men"
     },
     {
-      "name": "AI Judge",
-      "division": "Flyweight",
+      "name": "Zhu Kangjie",
+      "division": "Featherweight",
       "gender": "Men"
     },
     {
@@ -923,11 +1018,6 @@
       "gender": "Men"
     },
     {
-      "name": "Allan Nascimento",
-      "division": "Flyweight",
-      "gender": "Men"
-    },
-    {
       "name": "Amir Albazi",
       "division": "Flyweight",
       "gender": "Men"
@@ -939,6 +1029,11 @@
     },
     {
       "name": "Asu Almabayev",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Bilal Hasan",
       "division": "Flyweight",
       "gender": "Men"
     },
@@ -963,6 +1058,11 @@
       "gender": "Men"
     },
     {
+      "name": "Christian Natividad",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
       "name": "Clayton Carpenter",
       "division": "Flyweight",
       "gender": "Men"
@@ -973,17 +1073,22 @@
       "gender": "Men"
     },
     {
-      "name": "Daniel Barez",
-      "division": "Flyweight",
-      "gender": "Men"
-    },
-    {
       "name": "DongHun Choi",
       "division": "Flyweight",
       "gender": "Men"
     },
     {
       "name": "Edgar Chairez",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Eduardo Chapolin",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Fabia Sintes",
       "division": "Flyweight",
       "gender": "Men"
     },
@@ -999,11 +1104,6 @@
     },
     {
       "name": "Jafel Filho",
-      "division": "Flyweight",
-      "gender": "Men"
-    },
-    {
-      "name": "Jesus Aguilar",
       "division": "Flyweight",
       "gender": "Men"
     },
@@ -1063,12 +1163,17 @@
       "gender": "Men"
     },
     {
-      "name": "Matt Schnell",
+      "name": "Michael Aljarouj",
       "division": "Flyweight",
       "gender": "Men"
     },
     {
       "name": "Mitch Raposo",
+      "division": "Flyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Nilson Rojas",
       "division": "Flyweight",
       "gender": "Men"
     },
@@ -1108,11 +1213,6 @@
       "gender": "Men"
     },
     {
-      "name": "Stewart Nicoll",
-      "division": "Flyweight",
-      "gender": "Men"
-    },
-    {
       "name": "Tagir Ulanbekov",
       "division": "Flyweight",
       "gender": "Men"
@@ -1123,22 +1223,22 @@
       "gender": "Men"
     },
     {
-      "name": "Terrance Saeteurn",
-      "division": "Flyweight",
-      "gender": "Men"
-    },
-    {
       "name": "Tim Elliott",
       "division": "Flyweight",
       "gender": "Men"
     },
     {
-      "name": "AI Judge",
+      "name": "Aleksandar Rakic",
       "division": "Heavyweight",
       "gender": "Men"
     },
     {
       "name": "Alex Pereira",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Alexander Poppeck",
       "division": "Heavyweight",
       "gender": "Men"
     },
@@ -1153,12 +1253,17 @@
       "gender": "Men"
     },
     {
+      "name": "Alvin Hines",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
       "name": "Ante Delija",
       "division": "Heavyweight",
       "gender": "Men"
     },
     {
-      "name": "Austen Lane",
+      "name": "Anthony Wint",
       "division": "Heavyweight",
       "gender": "Men"
     },
@@ -1198,6 +1303,16 @@
       "gender": "Men"
     },
     {
+      "name": "Gable Steveson",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Gabriel Lorenco",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
       "name": "Gokhan Saricam",
       "division": "Heavyweight",
       "gender": "Men"
@@ -1208,7 +1323,12 @@
       "gender": "Men"
     },
     {
-      "name": "Jailton Almeida",
+      "name": "Guilherme Uriel",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Javad Mahjoub",
       "division": "Heavyweight",
       "gender": "Men"
     },
@@ -1218,7 +1338,22 @@
       "gender": "Men"
     },
     {
+      "name": "Johnny Walker",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Jose Montanha",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
       "name": "Josh Hokit",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Jovan Leka",
       "division": "Heavyweight",
       "gender": "Men"
     },
@@ -1229,6 +1364,11 @@
     },
     {
       "name": "Louie Sutherland",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Lucas Armand",
       "division": "Heavyweight",
       "gender": "Men"
     },
@@ -1259,6 +1399,16 @@
     },
     {
       "name": "Rizvan Kuniev",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "RJ Harris",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Robelis Despaigne",
       "division": "Heavyweight",
       "gender": "Men"
     },
@@ -1308,6 +1458,11 @@
       "gender": "Men"
     },
     {
+      "name": "Terrance Chatman",
+      "division": "Heavyweight",
+      "gender": "Men"
+    },
+    {
       "name": "Thomas Petersen",
       "division": "Heavyweight",
       "gender": "Men"
@@ -1348,11 +1503,6 @@
       "gender": "Men"
     },
     {
-      "name": "AI Judge",
-      "division": "Light Heavyweight",
-      "gender": "Men"
-    },
-    {
       "name": "Aleksandar Rakic",
       "division": "Light Heavyweight",
       "gender": "Men"
@@ -1363,12 +1513,17 @@
       "gender": "Men"
     },
     {
-      "name": "Alonzo Menifield",
+      "name": "Alexander Poppeck",
       "division": "Light Heavyweight",
       "gender": "Men"
     },
     {
-      "name": "Austen Lane",
+      "name": "Alik Lorenz",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Alonzo Menifield",
       "division": "Light Heavyweight",
       "gender": "Men"
     },
@@ -1393,17 +1548,17 @@
       "gender": "Men"
     },
     {
-      "name": "Bruno Lopes",
-      "division": "Light Heavyweight",
-      "gender": "Men"
-    },
-    {
       "name": "Carlos Ulberg",
       "division": "Light Heavyweight",
       "gender": "Men"
     },
     {
-      "name": "Cody Brundage",
+      "name": "Ce Liu",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Christian Edwards",
       "division": "Light Heavyweight",
       "gender": "Men"
     },
@@ -1423,7 +1578,12 @@
       "gender": "Men"
     },
     {
-      "name": "Eric McConico",
+      "name": "Felipe Franco",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Gerald Meerschaert",
       "division": "Light Heavyweight",
       "gender": "Men"
     },
@@ -1434,11 +1594,6 @@
     },
     {
       "name": "Ion Cutelaba",
-      "division": "Light Heavyweight",
-      "gender": "Men"
-    },
-    {
-      "name": "Ivan Erslan",
       "division": "Light Heavyweight",
       "gender": "Men"
     },
@@ -1493,6 +1648,16 @@
       "gender": "Men"
     },
     {
+      "name": "Levi Rodrigues Jr.",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Lucas Fernando",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
       "name": "Luke Fernandez",
       "division": "Light Heavyweight",
       "gender": "Men"
@@ -1503,7 +1668,17 @@
       "gender": "Men"
     },
     {
+      "name": "Magomed Tuchalov",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
       "name": "Modestas Bukauskas",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Muhammad Said",
       "division": "Light Heavyweight",
       "gender": "Men"
     },
@@ -1523,12 +1698,12 @@
       "gender": "Men"
     },
     {
-      "name": "Ozzy Diaz",
+      "name": "Paulo Costa",
       "division": "Light Heavyweight",
       "gender": "Men"
     },
     {
-      "name": "Paulo Costa",
+      "name": "Quentin Pasley",
       "division": "Light Heavyweight",
       "gender": "Men"
     },
@@ -1538,22 +1713,27 @@
       "gender": "Men"
     },
     {
+      "name": "Reinier de Ridder",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Robert Whittaker",
+      "division": "Light Heavyweight",
+      "gender": "Men"
+    },
+    {
       "name": "Rodolfo Bellato",
       "division": "Light Heavyweight",
       "gender": "Men"
     },
     {
-      "name": "Ryan Spann",
+      "name": "Roman Dolidze",
       "division": "Light Heavyweight",
       "gender": "Men"
     },
     {
       "name": "Tanner Boser",
-      "division": "Light Heavyweight",
-      "gender": "Men"
-    },
-    {
-      "name": "Tuco Tokkos",
       "division": "Light Heavyweight",
       "gender": "Men"
     },
@@ -1578,7 +1758,12 @@
       "gender": "Men"
     },
     {
-      "name": "AI Judge",
+      "name": "Adam Livingston",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Akbar Abdullaev",
       "division": "Lightweight",
       "gender": "Men"
     },
@@ -1603,6 +1788,11 @@
       "gender": "Men"
     },
     {
+      "name": "Artur Minev",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
       "name": "Axel Sola",
       "division": "Lightweight",
       "gender": "Men"
@@ -1614,6 +1804,11 @@
     },
     {
       "name": "Benoit Saint Denis",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Billy Quarantillo",
       "division": "Lightweight",
       "gender": "Men"
     },
@@ -1653,6 +1848,26 @@
       "gender": "Men"
     },
     {
+      "name": "Conor McGregor",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Cristian Perez Gonzalez",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Dakota Hope",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Damian Rzepecki",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
       "name": "Damir Hadzovic",
       "division": "Lightweight",
       "gender": "Men"
@@ -1688,17 +1903,17 @@
       "gender": "Men"
     },
     {
+      "name": "Dom Mar Fan",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
       "name": "Drakkar Klose",
       "division": "Lightweight",
       "gender": "Men"
     },
     {
       "name": "Drew Dober",
-      "division": "Lightweight",
-      "gender": "Men"
-    },
-    {
-      "name": "Edson Barboza",
       "division": "Lightweight",
       "gender": "Men"
     },
@@ -1783,12 +1998,12 @@
       "gender": "Men"
     },
     {
-      "name": "Jamie Mullarkey",
+      "name": "Jared Gordon",
       "division": "Lightweight",
       "gender": "Men"
     },
     {
-      "name": "Jared Gordon",
+      "name": "Jefferson Nascimento",
       "division": "Lightweight",
       "gender": "Men"
     },
@@ -1808,17 +2023,22 @@
       "gender": "Men"
     },
     {
-      "name": "Joel Alvarez",
-      "division": "Lightweight",
-      "gender": "Men"
-    },
-    {
       "name": "Jordan Leavitt",
       "division": "Lightweight",
       "gender": "Men"
     },
     {
+      "name": "Josiah Harrell",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
       "name": "Justin Gaethje",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Kai Kamaka III",
       "division": "Lightweight",
       "gender": "Men"
     },
@@ -1853,12 +2073,17 @@
       "gender": "Men"
     },
     {
-      "name": "Lando Vannata",
+      "name": "Lucas Brennan",
       "division": "Lightweight",
       "gender": "Men"
     },
     {
       "name": "Ludovit Klein",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Magomed Zaynukov",
       "division": "Lightweight",
       "gender": "Men"
     },
@@ -1928,11 +2153,6 @@
       "gender": "Men"
     },
     {
-      "name": "Michael Aswell Jr.",
-      "division": "Lightweight",
-      "gender": "Men"
-    },
-    {
       "name": "Michael Chandler",
       "division": "Lightweight",
       "gender": "Men"
@@ -1948,17 +2168,22 @@
       "gender": "Men"
     },
     {
+      "name": "Milos Janicic",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
       "name": "Mitch Ramirez",
       "division": "Lightweight",
       "gender": "Men"
     },
     {
-      "name": "Myktybek Orolbai",
+      "name": "Nasrat Haqparast",
       "division": "Lightweight",
       "gender": "Men"
     },
     {
-      "name": "Nasrat Haqparast",
+      "name": "Nate Landwehr",
       "division": "Lightweight",
       "gender": "Men"
     },
@@ -1969,6 +2194,11 @@
     },
     {
       "name": "Nikolas Motta",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Noah Gugnon",
       "division": "Lightweight",
       "gender": "Men"
     },
@@ -2013,7 +2243,17 @@
       "gender": "Men"
     },
     {
+      "name": "Richie Miranda",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
       "name": "Roberto Romero",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Salahdine Parnasse",
       "division": "Lightweight",
       "gender": "Men"
     },
@@ -2023,7 +2263,7 @@
       "gender": "Men"
     },
     {
-      "name": "Shem Rock",
+      "name": "Silvestre Sanchez",
       "division": "Lightweight",
       "gender": "Men"
     },
@@ -2033,12 +2273,17 @@
       "gender": "Men"
     },
     {
+      "name": "Stan Dorsainvil",
+      "division": "Lightweight",
+      "gender": "Men"
+    },
+    {
       "name": "Terrance McKinney",
       "division": "Lightweight",
       "gender": "Men"
     },
     {
-      "name": "Thiago Moises",
+      "name": "Thomas Gantt",
       "division": "Lightweight",
       "gender": "Men"
     },
@@ -2063,17 +2308,7 @@
       "gender": "Men"
     },
     {
-      "name": "Victor Martinez",
-      "division": "Lightweight",
-      "gender": "Men"
-    },
-    {
       "name": "Abus Magomedov",
-      "division": "Middleweight",
-      "gender": "Men"
-    },
-    {
-      "name": "AI Judge",
       "division": "Middleweight",
       "gender": "Men"
     },
@@ -2098,11 +2333,6 @@
       "gender": "Men"
     },
     {
-      "name": "Antonio Trocoli",
-      "division": "Middleweight",
-      "gender": "Men"
-    },
-    {
       "name": "Ateba Gautier",
       "division": "Middleweight",
       "gender": "Men"
@@ -2114,6 +2344,11 @@
     },
     {
       "name": "Baisangur Susurkaev",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Ben Johnston",
       "division": "Middleweight",
       "gender": "Men"
     },
@@ -2233,6 +2468,11 @@
       "gender": "Men"
     },
     {
+      "name": "Igor Cavalcanti",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
       "name": "Ikram Aliskerov",
       "division": "Middleweight",
       "gender": "Men"
@@ -2273,6 +2513,11 @@
       "gender": "Men"
     },
     {
+      "name": "Joseph Kropschot",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
       "name": "Julien Leblanc",
       "division": "Middleweight",
       "gender": "Men"
@@ -2308,6 +2553,11 @@
       "gender": "Men"
     },
     {
+      "name": "Luis Hernandez",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
       "name": "Mansur Abdul-Malik",
       "division": "Middleweight",
       "gender": "Men"
@@ -2328,12 +2578,17 @@
       "gender": "Men"
     },
     {
+      "name": "Martin Kozak",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
       "name": "Marvin Vettori",
       "division": "Middleweight",
       "gender": "Men"
     },
     {
-      "name": "Michael Page",
+      "name": "Matthieu Duclos",
       "division": "Middleweight",
       "gender": "Men"
     },
@@ -2343,12 +2598,22 @@
       "gender": "Men"
     },
     {
-      "name": "Michel Pereira",
+      "name": "Mickey Gall",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Modestino Rodrigues",
       "division": "Middleweight",
       "gender": "Men"
     },
     {
       "name": "Nassourdine Imavov",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Nick Galanti",
       "division": "Middleweight",
       "gender": "Men"
     },
@@ -2438,6 +2703,11 @@
       "gender": "Men"
     },
     {
+      "name": "Trent Miller",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
       "name": "Tresean Gore",
       "division": "Middleweight",
       "gender": "Men"
@@ -2453,12 +2723,22 @@
       "gender": "Men"
     },
     {
-      "name": "Wellington Turman",
+      "name": "Vlasto Cepo",
       "division": "Middleweight",
       "gender": "Men"
     },
     {
       "name": "Wes Schultz",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Yi Sak Lee",
+      "division": "Middleweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Yilizhati Maimaitijiang",
       "division": "Middleweight",
       "gender": "Men"
     },
@@ -2473,7 +2753,12 @@
       "gender": "Men"
     },
     {
-      "name": "AI Judge",
+      "name": "Abubakar Vagaev",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Adam Darby",
       "division": "Welterweight",
       "gender": "Men"
     },
@@ -2483,17 +2768,7 @@
       "gender": "Men"
     },
     {
-      "name": "Andreas Gustafsson",
-      "division": "Welterweight",
-      "gender": "Men"
-    },
-    {
       "name": "Austin Vanderford",
-      "division": "Welterweight",
-      "gender": "Men"
-    },
-    {
-      "name": "Axel Sola",
       "division": "Welterweight",
       "gender": "Men"
     },
@@ -2513,17 +2788,17 @@
       "gender": "Men"
     },
     {
+      "name": "Cam Nelson",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
       "name": "Carlos Leal",
       "division": "Welterweight",
       "gender": "Men"
     },
     {
       "name": "Carlos Prates",
-      "division": "Welterweight",
-      "gender": "Men"
-    },
-    {
-      "name": "Carlston Harris",
       "division": "Welterweight",
       "gender": "Men"
     },
@@ -2548,17 +2823,12 @@
       "gender": "Men"
     },
     {
-      "name": "Colby Covington",
+      "name": "Conor McGregor",
       "division": "Welterweight",
       "gender": "Men"
     },
     {
       "name": "Court McGee",
-      "division": "Welterweight",
-      "gender": "Men"
-    },
-    {
-      "name": "Daniel Frunza",
       "division": "Welterweight",
       "gender": "Men"
     },
@@ -2578,7 +2848,22 @@
       "gender": "Men"
     },
     {
+      "name": "Ding Meng",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Eric Nolan",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
       "name": "Evan Elder",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Farman Hasanov",
       "division": "Welterweight",
       "gender": "Men"
     },
@@ -2603,11 +2888,6 @@
       "gender": "Men"
     },
     {
-      "name": "Gilbert Burns",
-      "division": "Welterweight",
-      "gender": "Men"
-    },
-    {
       "name": "Gilbert Urbina",
       "division": "Welterweight",
       "gender": "Men"
@@ -2619,6 +2899,21 @@
     },
     {
       "name": "Ian Machado Garry",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Ignacio Bahamondes",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Igor Cavalcanti",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Isaac Moreno",
       "division": "Welterweight",
       "gender": "Men"
     },
@@ -2658,6 +2953,11 @@
       "gender": "Men"
     },
     {
+      "name": "Jefferson Nascimento",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
       "name": "Jeremiah Wells",
       "division": "Welterweight",
       "gender": "Men"
@@ -2678,12 +2978,22 @@
       "gender": "Men"
     },
     {
-      "name": "Jose Henrique",
+      "name": "Jonny Parsons",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Jose Souza",
       "division": "Welterweight",
       "gender": "Men"
     },
     {
       "name": "Josiah Harrell",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Kaik Brito",
       "division": "Welterweight",
       "gender": "Men"
     },
@@ -2708,17 +3018,27 @@
       "gender": "Men"
     },
     {
+      "name": "Leon Shahbazyan",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Levan Chokheli",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
       "name": "Li Jingliang",
       "division": "Welterweight",
       "gender": "Men"
     },
     {
-      "name": "Max Griffin",
+      "name": "Max Holloway",
       "division": "Welterweight",
       "gender": "Men"
     },
     {
-      "name": "Michael Chiesa",
+      "name": "Mayton Perea",
       "division": "Welterweight",
       "gender": "Men"
     },
@@ -2728,7 +3048,7 @@
       "gender": "Men"
     },
     {
-      "name": "Michael Page",
+      "name": "Michael Oliveira",
       "division": "Welterweight",
       "gender": "Men"
     },
@@ -2803,7 +3123,17 @@
       "gender": "Men"
     },
     {
+      "name": "Roberto Soldic",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
       "name": "Rodrigo Sezinando",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
+      "name": "Ronald Humphrey",
       "division": "Welterweight",
       "gender": "Men"
     },
@@ -2818,12 +3148,12 @@
       "gender": "Men"
     },
     {
-      "name": "Saygid Izagakhmaev",
+      "name": "Sean Brady",
       "division": "Welterweight",
       "gender": "Men"
     },
     {
-      "name": "Sean Brady",
+      "name": "Sean Clancy Jr.",
       "division": "Welterweight",
       "gender": "Men"
     },
@@ -2848,22 +3178,22 @@
       "gender": "Men"
     },
     {
+      "name": "Tahir Abdullayev",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
       "name": "Taiyilake Nueraji",
       "division": "Welterweight",
       "gender": "Men"
     },
     {
-      "name": "Themba Gorimbo",
+      "name": "Theodor Berggren",
       "division": "Welterweight",
       "gender": "Men"
     },
     {
       "name": "Tim Means",
-      "division": "Welterweight",
-      "gender": "Men"
-    },
-    {
-      "name": "Trey Waters",
       "division": "Welterweight",
       "gender": "Men"
     },
@@ -2883,6 +3213,11 @@
       "gender": "Men"
     },
     {
+      "name": "Victor Valenzuela",
+      "division": "Welterweight",
+      "gender": "Men"
+    },
+    {
       "name": "Wellington Turman",
       "division": "Welterweight",
       "gender": "Men"
@@ -2893,12 +3228,12 @@
       "gender": "Men"
     },
     {
-      "name": "AI Judge",
+      "name": "Ailin Perez",
       "division": "Womens Bantamweight",
       "gender": "Women"
     },
     {
-      "name": "Ailin Perez",
+      "name": "Alex Apodaca",
       "division": "Womens Bantamweight",
       "gender": "Women"
     },
@@ -2924,16 +3259,6 @@
     },
     {
       "name": "Daria Zhelezniakova",
-      "division": "Womens Bantamweight",
-      "gender": "Women"
-    },
-    {
-      "name": "Hailey Cowan",
-      "division": "Womens Bantamweight",
-      "gender": "Women"
-    },
-    {
-      "name": "Irene Aldana",
       "division": "Womens Bantamweight",
       "gender": "Women"
     },
@@ -2968,17 +3293,7 @@
       "gender": "Women"
     },
     {
-      "name": "Ketlen Vieira",
-      "division": "Womens Bantamweight",
-      "gender": "Women"
-    },
-    {
       "name": "Klaudia Sygula",
-      "division": "Womens Bantamweight",
-      "gender": "Women"
-    },
-    {
-      "name": "Luana Carolina",
       "division": "Womens Bantamweight",
       "gender": "Women"
     },
@@ -2988,12 +3303,12 @@
       "gender": "Women"
     },
     {
-      "name": "Macy Chiasson",
+      "name": "Lucia Szabova",
       "division": "Womens Bantamweight",
       "gender": "Women"
     },
     {
-      "name": "Mayra Bueno Silva",
+      "name": "Macy Chiasson",
       "division": "Womens Bantamweight",
       "gender": "Women"
     },
@@ -3023,7 +3338,7 @@
       "gender": "Women"
     },
     {
-      "name": "Montserrat Rendon",
+      "name": "Nikolija Milosevic",
       "division": "Womens Bantamweight",
       "gender": "Women"
     },
@@ -3048,11 +3363,6 @@
       "gender": "Women"
     },
     {
-      "name": "Ravena Oliveira",
-      "division": "Womens Bantamweight",
-      "gender": "Women"
-    },
-    {
       "name": "Tainara Lisboa",
       "division": "Womens Bantamweight",
       "gender": "Women"
@@ -3063,17 +3373,17 @@
       "gender": "Women"
     },
     {
-      "name": "AI Judge",
-      "division": "Womens Flyweight",
-      "gender": "Women"
-    },
-    {
       "name": "Alexa Grasso",
       "division": "Womens Flyweight",
       "gender": "Women"
     },
     {
       "name": "Amanda Ribas",
+      "division": "Womens Flyweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Anna Melisano",
       "division": "Womens Flyweight",
       "gender": "Women"
     },
@@ -3153,32 +3463,12 @@
       "gender": "Women"
     },
     {
-      "name": "Lauren Murphy",
-      "division": "Womens Flyweight",
-      "gender": "Women"
-    },
-    {
-      "name": "Luana Carolina",
-      "division": "Womens Flyweight",
-      "gender": "Women"
-    },
-    {
-      "name": "Luana Santos",
-      "division": "Womens Flyweight",
-      "gender": "Women"
-    },
-    {
       "name": "Manon Fiorot",
       "division": "Womens Flyweight",
       "gender": "Women"
     },
     {
       "name": "Maycee Barber",
-      "division": "Womens Flyweight",
-      "gender": "Women"
-    },
-    {
-      "name": "Mayra Bueno Silva",
       "division": "Womens Flyweight",
       "gender": "Women"
     },
@@ -3208,12 +3498,12 @@
       "gender": "Women"
     },
     {
-      "name": "Rose Namajunas",
+      "name": "Regina Tarin",
       "division": "Womens Flyweight",
       "gender": "Women"
     },
     {
-      "name": "Sofia Montenegro",
+      "name": "Rose Namajunas",
       "division": "Womens Flyweight",
       "gender": "Women"
     },
@@ -3258,11 +3548,6 @@
       "gender": "Women"
     },
     {
-      "name": "AI Judge",
-      "division": "Womens Strawweight",
-      "gender": "Women"
-    },
-    {
       "name": "Alexia Thainara",
       "division": "Womens Strawweight",
       "gender": "Women"
@@ -3288,17 +3573,12 @@
       "gender": "Women"
     },
     {
-      "name": "Ariane Carnelossi",
-      "division": "Womens Strawweight",
-      "gender": "Women"
-    },
-    {
-      "name": "Bruna Brasil",
-      "division": "Womens Strawweight",
-      "gender": "Women"
-    },
-    {
       "name": "Carol Foro",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Delphine Benouaich",
       "division": "Womens Strawweight",
       "gender": "Women"
     },
@@ -3318,7 +3598,7 @@
       "gender": "Women"
     },
     {
-      "name": "Feng Xiaocan",
+      "name": "Gigi Canuto",
       "division": "Womens Strawweight",
       "gender": "Women"
     },
@@ -3339,6 +3619,11 @@
     },
     {
       "name": "Jessica Andrade",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Jingnan Xiong",
       "division": "Womens Strawweight",
       "gender": "Women"
     },
@@ -3378,12 +3663,27 @@
       "gender": "Women"
     },
     {
+      "name": "Marina Spasic",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
       "name": "Marnic Mann",
       "division": "Womens Strawweight",
       "gender": "Women"
     },
     {
+      "name": "Melissa Amaya",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
       "name": "Montserrat Conejo Ruiz",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Nicolle Caliari",
       "division": "Womens Strawweight",
       "gender": "Women"
     },
@@ -3399,11 +3699,6 @@
     },
     {
       "name": "Puja Tomar",
-      "division": "Womens Strawweight",
-      "gender": "Women"
-    },
-    {
-      "name": "Ravena Oliveira",
       "division": "Womens Strawweight",
       "gender": "Women"
     },
@@ -3433,6 +3728,11 @@
       "gender": "Women"
     },
     {
+      "name": "Sofia Montenegro",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
       "name": "Stephanie Luciano",
       "division": "Womens Strawweight",
       "gender": "Women"
@@ -3449,6 +3749,11 @@
     },
     {
       "name": "Tatiana Suarez",
+      "division": "Womens Strawweight",
+      "gender": "Women"
+    },
+    {
+      "name": "Tina Black",
       "division": "Womens Strawweight",
       "gender": "Women"
     },

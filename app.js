@@ -1,15 +1,53 @@
-fetch("ufc_roster.json")
-  .then(res => res.json())
+fetch("./ufc_roster.json")
+  .then(response => response.json())
   .then(data => {
-    const fighters = data.fighters;
-    const fighterList = document.getElementById("fighter-list");
+    // Find the roster container.
+    // If it doesn't exist, create one.
+    let rosterContainer = document.getElementById("roster");
 
-    fighters.forEach(f => {
-      const fighterCard = document.createElement("div");
-      fighterCard.innerHTML = `<p><strong>${f.name}</strong> - ${f.division}</p>`;
-      fighterList.appendChild(fighterCard);
+    if (!rosterContainer) {
+      rosterContainer = document.createElement("div");
+      rosterContainer.id = "roster";
+      document.body.appendChild(rosterContainer);
+    }
+
+    // Create table
+    const table = document.createElement("table");
+
+    // Create header
+    const thead = document.createElement("thead");
+
+    thead.innerHTML = `
+      <tr>
+        <th>Fighter</th>
+        <th>Weight Class</th>
+        <th>Gender</th>
+      </tr>
+    `;
+
+    table.appendChild(thead);
+
+    // Create body
+    const tbody = document.createElement("tbody");
+
+    data.fighters.forEach(fighter => {
+      const row = document.createElement("tr");
+
+      row.innerHTML = `
+        <td>${fighter.name}</td>
+        <td>${fighter.division}</td>
+        <td>${fighter.gender}</td>
+      `;
+
+      tbody.appendChild(row);
     });
+
+    table.appendChild(tbody);
+
+    // Add table to page
+    rosterContainer.innerHTML = "";
+    rosterContainer.appendChild(table);
   })
   .catch(error => {
-    console.error("Error loading roster:", error);
+    console.error("Failed to load roster:", error);
   });

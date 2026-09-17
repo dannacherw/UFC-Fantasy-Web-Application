@@ -37,7 +37,8 @@ const bannedPhrases = [
   "featherweight",
   "bantamweight",
   "flyweight",
-  "AI Judge"
+  "ai judge",
+  "electronic mail"
 ];
 
 function normalizeText(value) {

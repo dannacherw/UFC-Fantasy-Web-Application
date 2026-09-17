@@ -79,3 +79,38 @@ header{
 .signup:hover{
     background:#b80710;
 }
+
+/* Fighter List Page */
+
+.fighter-page {
+    max-width: 1200px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+.fighter-page h1 {
+    margin-bottom: 25px;
+    font-size: 32px;
+}
+
+#fighters-table {
+    width: 100%;
+    border-collapse: collapse;
+    background: #111;
+}
+
+#fighters-table th {
+    background: #e50914;
+    color: white;
+    text-align: left;
+    padding: 14px 16px;
+}
+
+#fighters-table td {
+    padding: 12px 16px;
+    border-bottom: 1px solid #2a2a2a;
+}
+
+#fighters-table tbody tr:hover {
+    background: #1a1a1a;
+}
