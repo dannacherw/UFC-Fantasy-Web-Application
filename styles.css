@@ -114,3 +114,20 @@ header{
 #fighters-table tbody tr:hover {
     background: #1a1a1a;
 }
+
+.fighter-table-wrapper {
+    width: 100%;
+    overflow-x: auto;
+}
+
+#fighters-table {
+    width: 100%;
+    border-collapse: collapse;
+    white-space: nowrap;
+}
+
+#fighters-table th,
+#fighters-table td {
+    padding: 10px 12px;
+    text-align: left;
+}
