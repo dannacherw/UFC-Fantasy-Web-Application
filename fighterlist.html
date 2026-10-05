@@ -40,45 +40,84 @@
 
     <h1>UFC Fighters</h1>
 
+    <div class="fighter-filters">
+        <input
+            type="search"
+            id="fighter-search"
+            placeholder="Search fighters..."
+            aria-label="Search fighters"
+        >
+
+        <select id="gender-filter" aria-label="Filter by gender">
+            <option value="">All Genders</option>
+        </select>
+
+        <select id="weight-filter" aria-label="Filter by weight class">
+            <option value="">All Weight Classes</option>
+        </select>
+
+        <button type="button" id="clear-filters">Clear Filters</button>
+    </div>
+
+    <p id="fighter-count" aria-live="polite"></p>
+
     <div class="fighter-table-wrapper">
 
         <table id="fighters-table">
 
             <thead>
                 <tr>
-                    <th>Name</th>
-                    <th>Country</th>
-                    <th>Age</th>
-                    <th>Gender</th>
-                    <th>Weight Class</th>
+                    <th
+                        data-sort-key="name"
+                        data-type="text"
+                        tabindex="0"
+                    >
+                        Name
+                        <span class="sort-indicator"></span>
+                    </th>
 
-                    <th>Rank</th>
-                    <th>Peak Rank</th>
-                    <th>P4P Rank</th>
-                    <th>Peak P4P</th>
+                    <th
+                        data-sort-key="age"
+                        data-type="number"
+                        tabindex="0"
+                    >
+                        Age
+                        <span class="sort-indicator"></span>
+                    </th>
 
-                    <th>UFC Bouts</th>
-                    <th>Wins</th>
-                    <th>Losses</th>
+                    <th
+                        data-sort-key="gender"
+                        data-type="text"
+                        tabindex="0"
+                    >
+                        Gender
+                        <span class="sort-indicator"></span>
+                    </th>
 
-                    <th>Current Streak</th>
-                    <th>Best Streak</th>
+                    <th
+                        data-sort-key="weightClass"
+                        data-type="text"
+                        tabindex="0"
+                    >
+                        Weight Class
+                        <span class="sort-indicator"></span>
+                    </th>
 
-                    <th>Bonuses</th>
-                    <th>Avg Card Slot</th>
+                    <th
+                        data-sort-key="elo"
+                        data-type="number"
+                        tabindex="0"
+                    >
+                        Current ELO
+                        <span class="sort-indicator">▼</span>
+                    </th>
 
-                    <th>Current Elo</th>
-                    <th>Peak Elo</th>
-                    <th>Avg Opponent Elo</th>
-
-                    <th>UFC Debut</th>
                     <th>Last Fight</th>
                     <th>Next Fight</th>
                 </tr>
             </thead>
 
-            <tbody id="fighters-body">
-            </tbody>
+            <tbody id="fighters-body"></tbody>
 
         </table>
 

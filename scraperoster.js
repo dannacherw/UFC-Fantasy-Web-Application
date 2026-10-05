@@ -41,6 +41,7 @@ function numberOrNull(value) {
   }
 
   const number = Number(cleaned);
+
   return Number.isNaN(number) ? null : number;
 }
 
@@ -52,7 +53,46 @@ function integerOrNull(value) {
   }
 
   const number = parseInt(cleaned, 10);
+
   return Number.isNaN(number) ? null : number;
+}
+
+/*
+  Country values from roster.watch can sometimes be combined.
+
+  Example:
+
+  "BRSW"
+
+  becomes:
+
+  "BR SW"
+
+  Single countries such as "RU" remain unchanged.
+*/
+function normalizeCountry(value) {
+  const cleaned = normalizeText(value);
+
+  if (!cleaned) {
+    return null;
+  }
+
+  // Remove spaces so already-separated codes are handled consistently.
+  const compact = cleaned.replace(/\s+/g, "");
+
+  // Only split values made entirely from letters.
+  // This prevents unexpected text from being reformatted.
+  if (!/^[A-Za-z]+$/.test(compact)) {
+    return cleaned;
+  }
+
+  // Split the string into groups of two characters.
+  // BRSE -> BR SE
+  // USCA -> US CA
+  // RU   -> RU
+  const codes = compact.match(/.{1,2}/g);
+
+  return codes ? codes.join(" ") : cleaned;
 }
 
 /*
@@ -184,20 +224,30 @@ function normalizeGender(value) {
 }
 
 async function scrapeRoster() {
-  const browser = await chromium.launch({ headless: true });
+  const browser = await chromium.launch({
+    headless: true
+  });
+
   const page = await browser.newPage();
 
   try {
     console.log("Opening roster.watch...");
-    await page.goto(ROSTER_URL, { waitUntil: "domcontentloaded" });
 
-    // Wait until at least one actual fighter row is present.
-    await page.waitForSelector('tbody tr a[href*="/fighters/"]', {
-      timeout: 15000
+    await page.goto(ROSTER_URL, {
+      waitUntil: "domcontentloaded"
     });
 
+    // Wait until at least one actual fighter row is present.
+    await page.waitForSelector(
+      'tbody tr a[href*="/fighters/"]',
+      {
+        timeout: 15000
+      }
+    );
+
     /*
-      Instead of scraping every <a> tag on the page, we scrape table rows.
+      Instead of scraping every <a> tag on the page,
+      scrape complete table rows.
 
       For each row:
       - get every <td> cell
@@ -206,132 +256,225 @@ async function scrapeRoster() {
       - keep the full text of every table cell
       - keep the fighter detail-page URL
     */
-    const rawRows = await page.$$eval("tbody tr", rows => {
-      const clean = value =>
-        (value || "").replace(/\s+/g, " ").trim();
+    const rawRows = await page.$$eval(
+      "tbody tr",
+      rows => {
+        const clean = value =>
+          (value || "")
+            .replace(/\s+/g, " ")
+            .trim();
 
-      return rows
-        .map(row => {
-          const fighterLink = row.querySelector('a[href*="/fighters/"]');
+        return rows
+          .map(row => {
+            const fighterLink =
+              row.querySelector(
+                'a[href*="/fighters/"]'
+              );
 
-          if (!fighterLink) {
-            return null;
-          }
+            if (!fighterLink) {
+              return null;
+            }
 
-          const cells = Array.from(row.querySelectorAll("td")).map(cell =>
-            clean(cell.innerText || cell.textContent)
-          );
+            const cells = Array.from(
+              row.querySelectorAll("td")
+            ).map(cell =>
+              clean(
+                cell.innerText ||
+                cell.textContent
+              )
+            );
 
-          // A real roster row currently has 18 data cells.
-          if (cells.length < 18) {
-            return null;
-          }
+            // A real roster row currently has
+            // 18 data cells.
+            if (cells.length < 18) {
+              return null;
+            }
 
-          return {
-            name: clean(fighterLink.textContent),
-            fighter_url: fighterLink.href,
-            cells
-          };
-        })
-        .filter(Boolean);
-    });
+            return {
+              name: clean(
+                fighterLink.textContent
+              ),
+              fighter_url:
+                fighterLink.href,
+              cells
+            };
+          })
+          .filter(Boolean);
+      }
+    );
 
     const fighters = rawRows.map(row => {
       const cells = row.cells;
 
-      const ageInfo = parseAge(cells[2]);
-      const wins = parseRecordBreakdown(cells[8]);
-      const losses = parseRecordBreakdown(cells[9]);
-      const debut = parseFight(cells[16]);
-      const lastFight = parseFight(cells[17]);
+      const ageInfo =
+        parseAge(cells[2]);
+
+      const wins =
+        parseRecordBreakdown(cells[8]);
+
+      const losses =
+        parseRecordBreakdown(cells[9]);
+
+      const debut =
+        parseFight(cells[16]);
+
+      const lastFight =
+        parseFight(cells[17]);
 
       return {
         // Fighter identity
         name: row.name,
 
         /*
-          The full first-cell text is kept because roster.watch sometimes
-          displays extra labels/badges beside a fighter's name, such as "CS".
+          The full first-cell text is kept because
+          roster.watch sometimes displays extra
+          labels/badges beside a fighter's name.
         */
-        fighter_label: cells[0],
-        fighter_url: row.fighter_url,
+        fighter_label:
+          cells[0],
+
+        fighter_url:
+          row.fighter_url,
 
         // Basic information
-        country: cells[1] || null,
-        age: ageInfo.age,
-        date_of_birth: ageInfo.date_of_birth,
-        age_raw: ageInfo.raw,
-        gender: normalizeGender(cells[3]),
-        gender_raw: cells[3] || null,
 
         /*
-          Some fighters appear in more than one weight class, so storing this
-          as an array is more useful than assuming one division.
+          Convert combined country codes.
+
+          Examples:
+          BR -> BR
+          RU -> RU
+          BRSW -> BR SW
         */
-        weight_classes: cells[4]
-          ? cells[4]
-              .split(",")
-              .map(value => normalizeText(value))
-              .filter(Boolean)
-          : [],
+        country:
+          normalizeCountry(cells[1]),
+
+        age:
+          ageInfo.age,
+
+        date_of_birth:
+          ageInfo.date_of_birth,
+
+        age_raw:
+          ageInfo.raw,
+
+        gender:
+          normalizeGender(cells[3]),
+
+        gender_raw:
+          cells[3] || null,
+
+        /*
+          Some fighters appear in more than one
+          weight class, so storing this as an array
+          is more useful than assuming one division.
+        */
+        weight_classes:
+          cells[4]
+            ? cells[4]
+                .split(",")
+                .map(value =>
+                  normalizeText(value)
+                )
+                .filter(Boolean)
+            : [],
 
         // Rankings
-        peak_rank: cells[5] || null,
-        peak_p4p_rank: cells[6] || null,
+        peak_rank:
+          cells[5] || null,
+
+        peak_p4p_rank:
+          cells[6] || null,
 
         // UFC record
-        ufc_bouts: integerOrNull(cells[7]),
+        ufc_bouts:
+          integerOrNull(cells[7]),
+
         wins,
+
         losses,
 
         // Streaks and bonuses
-        current_streak: integerOrNull(cells[10]),
-        best_streak: integerOrNull(cells[11]),
-        bonuses: integerOrNull(cells[12]),
+        current_streak:
+          integerOrNull(cells[10]),
+
+        best_streak:
+          integerOrNull(cells[11]),
+
+        bonuses:
+          integerOrNull(cells[12]),
 
         // Placement / Elo statistics
-        average_card_slot: numberOrNull(cells[13]),
-        peak_elo: integerOrNull(cells[14]),
-        average_opponent_elo: integerOrNull(cells[15]),
+        average_card_slot:
+          numberOrNull(cells[13]),
+
+        peak_elo:
+          integerOrNull(cells[14]),
+
+        average_opponent_elo:
+          integerOrNull(cells[15]),
 
         // Fight history summary
         debut,
-        last_fight: lastFight,
+
+        last_fight:
+          lastFight,
 
         /*
-          This preserves the entire original row exactly as scraped.
-          If roster.watch later adds a value you have not parsed yet, you still
-          have the source row available in the JSON.
+          This preserves the entire original row
+          exactly as scraped.
+
+          Note that raw_columns will still contain
+          the original country value from the site.
         */
-        raw_columns: cells
+        raw_columns:
+          cells
       };
     });
 
     /*
-      The main roster page should already contain one row per fighter.
-      This extra de-duplication protects against accidental repeated rows.
+      The main roster page should already contain
+      one row per fighter.
+
+      This extra de-duplication protects against
+      accidental repeated rows.
     */
     const uniqueFighters = [
       ...new Map(
         fighters.map(fighter => [
-          fighter.fighter_url || fighter.name.toLowerCase(),
+          fighter.fighter_url ||
+            fighter.name.toLowerCase(),
           fighter
         ])
       ).values()
     ];
 
-    uniqueFighters.sort((a, b) => a.name.localeCompare(b.name));
+    uniqueFighters.sort(
+      (a, b) =>
+        a.name.localeCompare(b.name)
+    );
 
     const dataset = {
-      scraped_at: new Date().toISOString(),
-      source: ROSTER_URL,
-      fighter_count: uniqueFighters.length,
-      fighters: uniqueFighters
+      scraped_at:
+        new Date().toISOString(),
+
+      source:
+        ROSTER_URL,
+
+      fighter_count:
+        uniqueFighters.length,
+
+      fighters:
+        uniqueFighters
     };
 
     fs.writeFileSync(
       "./ufc_roster.json",
-      JSON.stringify(dataset, null, 2),
+      JSON.stringify(
+        dataset,
+        null,
+        2
+      ),
       "utf8"
     );
 
@@ -344,6 +487,10 @@ async function scrapeRoster() {
 }
 
 scrapeRoster().catch(error => {
-  console.error("Scraper failed:", error);
+  console.error(
+    "Scraper failed:",
+    error
+  );
+
   process.exitCode = 1;
 });
