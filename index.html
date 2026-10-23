@@ -1,40 +1,42 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
 
-<title>Fantasy MMA</title>
-
-<link rel="stylesheet" href="styles.css">
-
+    <title>Pound4Pound - Home</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 
-<body>
+<body data-page="index">
 
 <header>
     <nav class="navbar">
-
-        <div class="logo">
-            Fantasy MMA
-        </div>
+        <a class="logo" href="index.html">Pound4Pound</a>
 
         <ul class="nav-links">
-            <li><a href="index.html">Home</a></li>
-            <li><a href="leagues.html">Leagues</a></li>
-            <li><a href="rankings.html">Rankings</a></li>
-            <li><a href="events.html">Events</a></li>
-            <li><a href="myteam.html">My Team</a></li>
-            <li><a href="fighterlist.html">Fighter List</a></li>
+            <li><a href="/index">Home</a></li>
+            <li><a href="/leagues">Leagues</a></li>
+            <li><a href="/rankings">Rankings</a></li>
+            <li><a href="/events">Events</a></li>
+            <li><a href="/myteam">My Team</a></li>
+            <li><a href="/fighterlist">Fighter List</a></li>
         </ul>
 
-        <div class="auth-buttons">
-            <button class="btn login">Login</button>
-            <button class="btn signup">Sign Up</button>
-        </div>
-
+        <div class="auth-buttons"></div>
     </nav>
 </header>
+
+<main class="dashboard">
+    <p id="notice" role="status"></p>
+    <div id="page-content">
+        <h1>Home</h1>
+    </div>
+</main>
+
+<script src="auth.js"></script>
+<script src="pages.js"></script>
 
 </body>
 </html>
