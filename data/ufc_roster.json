@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-23T16:17:27.026Z",
+  "scraped_at": "2026-10-29T22:33:44.383Z",
   "source": "https://www.roster.watch/",
   "fighter_count": 705,
   "fighters": [
@@ -27,29 +27,29 @@
         "raw": ""
       },
       "losses": {
-        "total": 2,
+        "total": 3,
         "ko_tko": null,
         "submissions": null,
         "decisions": null,
-        "raw": "2"
+        "raw": "3"
       },
-      "current_streak": 1,
+      "current_streak": 2,
       "best_streak": 1,
-      "bonuses": 1,
-      "average_card_slot": 1,
+      "bonuses": 2,
+      "average_card_slot": 2,
       "peak_elo": 0,
       "average_opponent_elo": 4,
       "debut": {
         "date": null,
         "result": null,
         "opponent": null,
-        "raw": "3133"
+        "raw": "3218"
       },
       "last_fight": {
         "date": null,
         "result": null,
         "opponent": null,
-        "raw": "3133"
+        "raw": "3218"
       },
       "raw_columns": [
         "Aaron Pico",
@@ -61,19 +61,19 @@
         "11",
         "",
         "",
-        "2",
-        "1 0 KO 0 Sub 1 Dec",
+        "3",
+        "2 1 KO 0 Sub 1 Dec",
         "1 1 KO 0 Sub 0 Dec",
-        "1",
-        "1",
+        "2",
+        "2",
         "0",
-        "4",
-        "3133",
-        "3133",
+        "4.3",
+        "3218",
+        "3218",
         "3160",
         "2025-08-16 L - Lerone Murphy",
-        "2026-04-11 W - Patricio Freire",
-        "2026-10-24 Losene Keita"
+        "2026-10-24 W - Losene Keita",
+        ""
       ]
     },
     {
@@ -173,29 +173,29 @@
         "raw": ""
       },
       "losses": {
-        "total": 3,
+        "total": 4,
         "ko_tko": null,
         "submissions": null,
         "decisions": null,
-        "raw": "3"
+        "raw": "4"
       },
-      "current_streak": 31,
+      "current_streak": 42,
       "best_streak": 0,
-      "bonuses": 3,
-      "average_card_slot": 3,
+      "bonuses": 4,
+      "average_card_slot": 4,
       "peak_elo": 1,
       "average_opponent_elo": 7,
       "debut": {
         "date": null,
         "result": null,
         "opponent": null,
-        "raw": "2863"
+        "raw": "2996"
       },
       "last_fight": {
         "date": null,
         "result": null,
         "opponent": null,
-        "raw": "2863"
+        "raw": "2996"
       },
       "raw_columns": [
         "Abdul Rakhman Yakhyaev CS",
@@ -207,19 +207,19 @@
         "",
         "",
         "",
-        "3",
-        "31 KO 2 Sub 0 Dec",
+        "4",
+        "42 KO 2 Sub 0 Dec",
         "00 KO 0 Sub 0 Dec",
-        "3",
-        "3",
+        "4",
+        "4",
         "1",
         "7",
-        "2863",
-        "2863",
+        "2996",
+        "2996",
         "2671",
         "2025-11-22W - Rafael Cerqueira",
-        "2026-06-27W - Julius Walker",
-        "2026-10-24Nikita Krylov"
+        "2026-10-24W - Nikita Krylov",
+        ""
       ]
     },
     {
@@ -320,29 +320,29 @@
         "raw": ""
       },
       "losses": {
-        "total": 1,
+        "total": 2,
         "ko_tko": null,
         "submissions": null,
         "decisions": null,
-        "raw": "1"
+        "raw": "2"
       },
-      "current_streak": 1,
+      "current_streak": 2,
       "best_streak": 0,
-      "bonuses": 1,
-      "average_card_slot": 1,
+      "bonuses": 2,
+      "average_card_slot": 2,
       "peak_elo": 0,
-      "average_opponent_elo": 5,
+      "average_opponent_elo": 8,
       "debut": {
         "date": null,
         "result": null,
         "opponent": null,
-        "raw": "3248"
+        "raw": "3268"
       },
       "last_fight": {
         "date": null,
         "result": null,
         "opponent": null,
-        "raw": "3248"
+        "raw": "3268"
       },
       "raw_columns": [
         "Abubakar Vagaev",
@@ -354,19 +354,19 @@
         "",
         "",
         "",
-        "1",
-        "1 0 KO 0 Sub 1 Dec",
+        "2",
+        "2 0 KO 0 Sub 2 Dec",
         "0 0 KO 0 Sub 0 Dec",
-        "1",
-        "1",
+        "2",
+        "2",
         "0",
-        "5",
-        "3248",
-        "3248",
+        "8",
+        "3268",
+        "3268",
         "2908",
         "2026-07-25 W - Saygid Izagakhmaev",
-        "2026-07-25 W - Saygid Izagakhmaev",
-        "2026-10-24 Jacob Malkoun"
+        "2026-10-24 W - Jacob Malkoun",
+        ""
       ]
     },
     {
@@ -393,15 +393,15 @@
         "raw": ""
       },
       "losses": {
-        "total": 8,
+        "total": 9,
         "ko_tko": null,
         "submissions": null,
         "decisions": null,
-        "raw": "8"
+        "raw": "9"
       },
-      "current_streak": 51,
-      "best_streak": 31,
-      "bonuses": 1,
+      "current_streak": 6,
+      "best_streak": 3,
+      "bonuses": 2,
       "average_card_slot": 3,
       "peak_elo": 1,
       "average_opponent_elo": 5,
@@ -409,13 +409,13 @@
         "date": null,
         "result": null,
         "opponent": null,
-        "raw": "3079"
+        "raw": "3132"
       },
       "last_fight": {
         "date": null,
         "result": null,
         "opponent": null,
-        "raw": "3092"
+        "raw": "3132"
       },
       "raw_columns": [
         "Abus Magomedov",
@@ -427,19 +427,19 @@
         "12",
         "",
         "",
-        "8",
-        "51 KO 2 Sub 2 Dec",
-        "31 KO 1 Sub 1 Dec",
-        "1",
+        "9",
+        "6 1 KO 3 Sub 2 Dec",
+        "3 1 KO 1 Sub 1 Dec",
+        "2",
         "3",
         "1",
-        "5.6",
-        "3079",
-        "3092",
+        "5.9",
+        "3132",
+        "3132",
         "2937",
-        "2022-09-03W - Dustin Stoltzfus",
-        "2026-06-27W - Michal Oleksiejczuk",
-        "2026-10-24Cam Rowston"
+        "2022-09-03 W - Dustin Stoltzfus",
+        "2026-10-24 W - Cam Rowston",
+        ""
       ]
     },
     {
@@ -2003,23 +2003,23 @@
         "raw": "1"
       },
       "losses": {
-        "total": 18,
+        "total": 19,
         "ko_tko": null,
         "submissions": null,
         "decisions": null,
-        "raw": "18"
+        "raw": "19"
       },
-      "current_streak": 15,
+      "current_streak": 16,
       "best_streak": 3,
-      "bonuses": 2,
+      "bonuses": 3,
       "average_card_slot": 12,
-      "peak_elo": 6,
-      "average_opponent_elo": 3,
+      "peak_elo": 7,
+      "average_opponent_elo": 2,
       "debut": {
         "date": null,
         "result": null,
         "opponent": null,
-        "raw": "3452"
+        "raw": "3541"
       },
       "last_fight": {
         "date": null,
@@ -2037,19 +2037,19 @@
         "C",
         "2",
         "1",
-        "18",
-        "15 5 KO 0 Sub 10 Dec",
+        "19",
+        "16 6 KO 0 Sub 10 Dec",
         "3 2 KO 0 Sub 1 Dec",
-        "2",
-        "12",
-        "6",
         "3",
-        "3452",
+        "12",
+        "7",
+        "2.9",
+        "3541",
         "3598",
         "3176",
         "2016-11-26 W - Yusuke Kasuya",
-        "2026-02-01 W - Diego Lopes",
-        "2026-10-24 Movsar Evloev"
+        "2026-10-24 W - Movsar Evloev",
+        ""
       ]
     },
     {
@@ -2059,7 +2059,7 @@
       "country": "🇷🇺",
       "age": 38,
       "date_of_birth": "1988-10-24",
-      "age_raw": "38🎂 (1988-10-24)",
+      "age_raw": "38 (1988-10-24)",
       "gender": "Men",
       "gender_raw": "♂️",
       "weight_classes": [
@@ -2076,15 +2076,15 @@
         "raw": ""
       },
       "losses": {
-        "total": 19,
+        "total": 20,
         "ko_tko": null,
         "submissions": null,
         "decisions": null,
-        "raw": "19"
+        "raw": "20"
       },
-      "current_streak": 14,
+      "current_streak": 15,
       "best_streak": 5,
-      "bonuses": 2,
+      "bonuses": 3,
       "average_card_slot": 4,
       "peak_elo": 3,
       "average_opponent_elo": 2,
@@ -2092,37 +2092,37 @@
         "date": null,
         "result": null,
         "opponent": null,
-        "raw": "3391"
+        "raw": "3435"
       },
       "last_fight": {
         "date": null,
         "result": null,
         "opponent": null,
-        "raw": "3391"
+        "raw": "3435"
       },
       "raw_columns": [
         "Alexander Volkov",
         "🇷🇺",
-        "38🎂 (1988-10-24)",
+        "38 (1988-10-24)",
         "♂️",
         "heavyweight",
         "2",
         "2",
         "",
         "",
-        "19",
-        "14 6 KO 1 Sub 7 Dec",
+        "20",
+        "15 6 KO 1 Sub 8 Dec",
         "5 1 KO 1 Sub 3 Dec",
-        "2",
+        "3",
         "4",
         "3",
-        "2.3",
-        "3391",
-        "3391",
+        "2.4",
+        "3435",
+        "3435",
         "3058",
         "2016-11-19 W - Tim Johnson",
-        "2026-05-09 W - Waldo Cortes-Acosta",
-        "2026-10-24 Rizvan Kuniev"
+        "2026-10-24 W - Rizvan Kuniev",
+        ""
       ]
     },
     {
@@ -2995,10 +2995,10 @@
         "11",
         "2468",
         "2565",
-        "2640",
+        "2680",
         "2025-06-28L - Jhonata Diniz",
         "2026-07-18L - RJ Harris",
-        "2026-11-07Gabriel Lorenco"
+        ""
       ]
     },
     {
@@ -3226,9 +3226,9 @@
       "fighter_label": "Amir Albazi",
       "fighter_url": "https://www.roster.watch/fighters/amiralbazi.html",
       "country": "🇮🇶🇸🇪",
-      "age": 32,
+      "age": 33,
       "date_of_birth": "1993-10-27",
-      "age_raw": "32 (1993-10-27)",
+      "age_raw": "33 (1993-10-27)",
       "gender": "Men",
       "gender_raw": "♂️",
       "weight_classes": [
@@ -3272,7 +3272,7 @@
       "raw_columns": [
         "Amir Albazi",
         "🇮🇶🇸🇪",
-        "32 (1993-10-27)",
+        "33 (1993-10-27)",
         "♂️",
         "flyweight",
         "9",
@@ -3507,10 +3507,10 @@
         "8.5",
         "2504",
         "2921",
-        "2642",
+        "2640",
         "2021-08-28W - Micheal Gillmore",
         "2026-05-16L - Cody Brundage",
-        "2026-10-31Azamat Bekoev"
+        "2026-11-07Mantas Kondratavicius"
       ]
     },
     {
@@ -3726,10 +3726,10 @@
         "6.8",
         "2769",
         "2860",
-        "2629",
+        "2628",
         "2014-12-12W - Emily Kagan",
         "2026-05-30W - Jingnan Xiong",
-        ""
+        "2026-12-12Shanelle Dyer"
       ]
     },
     {
@@ -4393,7 +4393,7 @@
       "name": "Asaf Chopurov",
       "fighter_label": "Asaf Chopurov",
       "fighter_url": "https://www.roster.watch/fighters/asafchopurov.html",
-      "country": "🇦🇿",
+      "country": "🇦🇿🇷🇺",
       "age": 24,
       "date_of_birth": "2001-11-17",
       "age_raw": "24 (2001-11-17)",
@@ -4413,33 +4413,33 @@
         "raw": ""
       },
       "losses": {
-        "total": 0,
+        "total": 1,
         "ko_tko": null,
         "submissions": null,
         "decisions": null,
-        "raw": "0"
+        "raw": "1"
       },
-      "current_streak": null,
-      "best_streak": null,
-      "bonuses": null,
-      "average_card_slot": null,
+      "current_streak": 0,
+      "best_streak": 10,
+      "bonuses": -1,
+      "average_card_slot": -1,
       "peak_elo": 0,
-      "average_opponent_elo": null,
+      "average_opponent_elo": 10,
       "debut": {
         "date": null,
         "result": null,
         "opponent": null,
-        "raw": "3006"
+        "raw": "2897"
       },
       "last_fight": {
         "date": null,
         "result": null,
         "opponent": null,
-        "raw": "3006"
+        "raw": "2897"
       },
       "raw_columns": [
         "Asaf Chopurov",
-        "🇦🇿",
+        "🇦🇿🇷🇺",
         "24 (2001-11-17)",
         "♂️",
         "bantamweight",
@@ -4447,19 +4447,19 @@
         "",
         "",
         "",
+        "1",
+        "00 KO 0 Sub 0 Dec",
+        "10 KO 0 Sub 1 Dec",
+        "-1",
+        "-1",
         "0",
-        "",
-        "",
-        "",
-        "",
-        "0",
-        "",
-        "3006",
-        "3006",
+        "10",
+        "2897",
+        "2897",
         "2670",
-        "",
-        "",
-        "2026-10-24Colby Thicknesse"
+        "2026-10-24L - Colby Thicknesse",
+        "2026-10-24L - Colby Thicknesse",
+        ""
       ]
     },
     {
@@ -4675,10 +4675,10 @@
         "7",
         "2691",
         "2783",
-        "2667",
+        "2715",
         "2025-01-11L - Christian Rodriguez",
         "2026-07-18L - Jose Delgado",
-        "2026-11-07Lucas Brennan"
+        ""
       ]
     },
     {
@@ -4894,10 +4894,10 @@
         "9.5",
         "2633",
         "2974",
-        "2629",
+        "2661",
         "2025-01-18W - Zachary Reese",
         "2026-04-04L - Tresean Gore",
-        "2026-10-31Andre Petroski"
+        ""
       ]
     },
     {
@@ -4924,15 +4924,15 @@
         "raw": ""
       },
       "losses": {
-        "total": 7,
+        "total": 8,
         "ko_tko": null,
         "submissions": null,
         "decisions": null,
-        "raw": "7"
+        "raw": "8"
       },
-      "current_streak": 6,
-      "best_streak": 1,
-      "bonuses": -1,
+      "current_streak": 65,
+      "best_streak": 22,
+      "bonuses": -2,
       "average_card_slot": 6,
       "peak_elo": 2,
       "average_opponent_elo": 6,
@@ -4940,7 +4940,7 @@
         "date": null,
         "result": null,
         "opponent": null,
-        "raw": "3105"
+        "raw": "3014"
       },
       "last_fight": {
         "date": null,
@@ -4958,19 +4958,19 @@
         "6",
         "",
         "",
-        "7",
-        "6 5 KO 0 Sub 1 Dec",
-        "1 1 KO 0 Sub 0 Dec",
-        "-1",
+        "8",
+        "65 KO 0 Sub 1 Dec",
+        "22 KO 0 Sub 0 Dec",
+        "-2",
         "6",
         "2",
         "6",
-        "3105",
+        "3014",
         "3213",
         "2934",
-        "2022-03-12 W - Tafon Nchukwi",
-        "2026-04-11 L - Paulo Costa",
-        "2026-10-24 Dominick Reyes"
+        "2022-03-12W - Tafon Nchukwi",
+        "2026-10-24L - Dominick Reyes",
+        ""
       ]
     },
     {
@@ -5478,10 +5478,10 @@
         "4.7",
         "3207",
         "3345",
-        "2991",
+        "3012",
         "2021-10-30 L - Elizeu Zaleski dos Santos",
         "2026-07-11 L - Paddy Pimblett",
-        ""
+        "2027-02-07 Quillan Salkilld"
       ]
     },
     {
@@ -6094,23 +6094,23 @@
         "raw": ""
       },
       "losses": {
-        "total": 5,
+        "total": 6,
         "ko_tko": null,
         "submissions": null,
         "decisions": null,
-        "raw": "5"
+        "raw": "6"
       },
       "current_streak": 20,
-      "best_streak": 32,
-      "bonuses": -2,
+      "best_streak": 42,
+      "bonuses": -3,
       "average_card_slot": 1,
       "peak_elo": 0,
-      "average_opponent_elo": 8,
+      "average_opponent_elo": 9,
       "debut": {
         "date": null,
         "result": null,
         "opponent": null,
-        "raw": "2612"
+        "raw": "2573"
       },
       "last_fight": {
         "date": null,
@@ -6128,19 +6128,19 @@
         "",
         "",
         "",
-        "5",
+        "6",
         "20 KO 0 Sub 2 Dec",
-        "32 KO 1 Sub 0 Dec",
-        "-2",
+        "42 KO 1 Sub 1 Dec",
+        "-3",
         "1",
         "0",
-        "8.8",
-        "2612",
+        "9.3",
+        "2573",
         "2696",
         "2773",
         "2024-02-10W - Timmy Cuamba",
-        "2026-03-14L - Manoel Sousa",
-        "2026-10-24Daniel Santos"
+        "2026-10-24L - Daniel Santos",
+        ""
       ]
     },
     {
@@ -7410,15 +7410,15 @@
         "raw": ""
       },
       "losses": {
-        "total": 3,
+        "total": 4,
         "ko_tko": null,
         "submissions": null,
         "decisions": null,
-        "raw": "3"
+        "raw": "4"
       },
       "current_streak": 32,
-      "best_streak": 0,
-      "bonuses": 3,
+      "best_streak": 10,
+      "bonuses": -1,
       "average_card_slot": 3,
       "peak_elo": 0,
       "average_opponent_elo": 7,
@@ -7426,7 +7426,7 @@
         "date": null,
         "result": null,
         "opponent": null,
-        "raw": "2904"
+        "raw": "2851"
       },
       "last_fight": {
         "date": null,
@@ -7444,19 +7444,19 @@
         "",
         "",
         "",
-        "3",
+        "4",
         "32 KO 0 Sub 1 Dec",
-        "00 KO 0 Sub 0 Dec",
-        "3",
+        "10 KO 1 Sub 0 Dec",
+        "-1",
         "3",
         "0",
-        "7",
-        "2904",
+        "7.2",
+        "2851",
         "2904",
         "2800",
         "2025-09-28W - Andre Petroski",
-        "2026-05-02W - Robert Bryczek",
-        "2026-10-24Abus Magomedov"
+        "2026-10-24L - Abus Magomedov",
+        ""
       ]
     },
     {
@@ -7745,10 +7745,10 @@
         "3.8",
         "3464",
         "3464",
-        "3075",
+        "3113",
         "2024-02-10 W - Trevin Giles",
         "2026-05-02 W - Jack Della Maddalena",
-        ""
+        "2027-01-30 Michael Morales"
       ]
     },
     {
@@ -8924,9 +8924,9 @@
       "fighter_label": "Chepe Mariscal",
       "fighter_url": "https://www.roster.watch/fighters/chepemariscal.html",
       "country": "🇺🇸",
-      "age": 33,
+      "age": 34,
       "date_of_birth": "1992-10-27",
-      "age_raw": "33 (1992-10-27)",
+      "age_raw": "34 (1992-10-27)",
       "gender": "Men",
       "gender_raw": "♂️",
       "weight_classes": [
@@ -8970,7 +8970,7 @@
       "raw_columns": [
         "Chepe Mariscal",
         "🇺🇸",
-        "33 (1992-10-27)",
+        "34 (1992-10-27)",
         "♂️",
         "featherweight",
         "",
@@ -10333,29 +10333,29 @@
         "raw": ""
       },
       "losses": {
-        "total": 3,
+        "total": 4,
         "ko_tko": null,
         "submissions": null,
         "decisions": null,
-        "raw": "3"
+        "raw": "4"
       },
-      "current_streak": 20,
+      "current_streak": 30,
       "best_streak": 10,
-      "bonuses": 2,
-      "average_card_slot": 2,
+      "bonuses": 3,
+      "average_card_slot": 3,
       "peak_elo": 0,
       "average_opponent_elo": 9,
       "debut": {
         "date": null,
         "result": null,
         "opponent": null,
-        "raw": "2670"
+        "raw": "2779"
       },
       "last_fight": {
         "date": null,
         "result": null,
         "opponent": null,
-        "raw": "2670"
+        "raw": "2779"
       },
       "raw_columns": [
         "Colby Thicknesse",
@@ -10367,19 +10367,19 @@
         "",
         "",
         "",
-        "3",
-        "20 KO 0 Sub 2 Dec",
+        "4",
+        "30 KO 0 Sub 3 Dec",
         "10 KO 0 Sub 1 Dec",
-        "2",
-        "2",
+        "3",
+        "3",
         "0",
-        "9.3",
-        "2670",
-        "2670",
+        "9.5",
+        "2779",
+        "2779",
         "2608",
         "2025-02-08L - Aleksandre Topuria",
-        "2026-05-02W - Vince Morales",
-        "2026-10-24Asaf Chopurov"
+        "2026-10-24W - Asaf Chopurov",
+        ""
       ]
     },
     {
@@ -11502,23 +11502,23 @@
         "raw": ""
       },
       "losses": {
-        "total": 6,
+        "total": 7,
         "ko_tko": null,
         "submissions": null,
         "decisions": null,
-        "raw": "6"
+        "raw": "7"
       },
-      "current_streak": 42,
+      "current_streak": 52,
       "best_streak": 21,
-      "bonuses": -1,
+      "bonuses": 1,
       "average_card_slot": 4,
       "peak_elo": 2,
-      "average_opponent_elo": 7,
+      "average_opponent_elo": 8,
       "debut": {
         "date": null,
         "result": null,
         "opponent": null,
-        "raw": "2861"
+        "raw": "2899"
       },
       "last_fight": {
         "date": null,
@@ -11536,19 +11536,19 @@
         "",
         "",
         "",
-        "6",
-        "42 KO 0 Sub 2 Dec",
+        "7",
+        "52 KO 0 Sub 3 Dec",
         "21 KO 0 Sub 1 Dec",
-        "-1",
+        "1",
         "4",
         "2",
-        "7.5",
-        "2861",
+        "8.1",
+        "2899",
         "2982",
         "2760",
         "2022-04-09L - Julio Arce",
-        "2026-05-16L - Dooho Choi",
-        "2026-10-24Bolaji Oki"
+        "2026-10-24W - Bolaji Oki",
+        ""
       ]
     },
     {
@@ -13038,15 +13038,15 @@
         "raw": "15"
       },
       "losses": {
-        "total": 15,
+        "total": 16,
         "ko_tko": null,
         "submissions": null,
         "decisions": null,
-        "raw": "15"
+        "raw": "16"
       },
-      "current_streak": 10,
+      "current_streak": 11,
       "best_streak": 5,
-      "bonuses": 1,
+      "bonuses": 2,
       "average_card_slot": 6,
       "peak_elo": 4,
       "average_opponent_elo": 3,
@@ -13054,13 +13054,13 @@
         "date": null,
         "result": null,
         "opponent": null,
-        "raw": "3138"
+        "raw": "3228"
       },
       "last_fight": {
         "date": null,
         "result": null,
         "opponent": null,
-        "raw": "3194"
+        "raw": "3228"
       },
       "raw_columns": [
         "Dominick Reyes",
@@ -13072,19 +13072,19 @@
         "1",
         "",
         "15",
-        "15",
-        "10 6 KO 1 Sub 3 Dec",
+        "16",
+        "11 7 KO 1 Sub 3 Dec",
         "5 4 KO 0 Sub 1 Dec",
-        "1",
+        "2",
         "6",
         "4",
-        "3.7",
-        "3138",
-        "3194",
+        "3.8",
+        "3228",
+        "3228",
         "3017",
         "2017-06-25 W - Joachim Christensen",
-        "2026-04-11 W - Johnny Walker",
-        "2026-10-24 Azamat Murzakanov"
+        "2026-10-24 W - Azamat Murzakanov",
+        ""
       ]
     },
     {
@@ -14678,7 +14678,7 @@
         "women's flyweight",
         "▼1 5",
         "2",
-        "▼1 9",
+        "▼6 14",
         "4",
         "10",
         "80 KO 4 Sub 4 Dec",
@@ -16079,10 +16079,10 @@
         "",
         "2559",
         "2559",
-        "2468",
+        "2646",
         "",
         "",
-        "2026-11-07Alvin Hines"
+        "2026-11-07Thomas Petersen"
       ]
     },
     {
@@ -17134,23 +17134,23 @@
         "raw": ""
       },
       "losses": {
-        "total": 15,
+        "total": 16,
         "ko_tko": null,
         "submissions": null,
         "decisions": null,
-        "raw": "15"
+        "raw": "16"
       },
-      "current_streak": 12,
+      "current_streak": 13,
       "best_streak": 2,
-      "bonuses": 1,
+      "bonuses": 2,
       "average_card_slot": 5,
       "peak_elo": 2,
-      "average_opponent_elo": 5,
+      "average_opponent_elo": 6,
       "debut": {
         "date": null,
         "result": null,
         "opponent": null,
-        "raw": "3122"
+        "raw": "3197"
       },
       "last_fight": {
         "date": null,
@@ -17168,19 +17168,19 @@
         "10",
         "",
         "",
-        "15",
-        "12 2 KO 5 Sub 5 Dec",
+        "16",
+        "13 2 KO 5 Sub 6 Dec",
         "2 2 KO 0 Sub 0 Dec",
-        "1",
+        "2",
         "5",
         "2",
-        "5.8",
-        "3122",
+        "6",
+        "3197",
         "3259",
         "2896",
         "2019-03-09 W - Julian Erosa",
-        "2026-05-09 W - Mateusz Rebecki",
-        "2026-10-24 Nurullo Aliev"
+        "2026-10-24 W - Nurullo Aliev",
+        ""
       ]
     },
     {
@@ -18084,29 +18084,29 @@
         "raw": ""
       },
       "losses": {
-        "total": 7,
+        "total": 8,
         "ko_tko": null,
         "submissions": null,
         "decisions": null,
-        "raw": "7"
+        "raw": "8"
       },
-      "current_streak": 50,
+      "current_streak": 60,
       "best_streak": 20,
-      "bonuses": 1,
+      "bonuses": 2,
       "average_card_slot": 4,
       "peak_elo": 1,
-      "average_opponent_elo": 4,
+      "average_opponent_elo": 5,
       "debut": {
         "date": null,
         "result": null,
         "opponent": null,
-        "raw": "2854"
+        "raw": "2882"
       },
       "last_fight": {
         "date": null,
         "result": null,
         "opponent": null,
-        "raw": "2854"
+        "raw": "2882"
       },
       "raw_columns": [
         "Iasmin Lucindo",
@@ -18118,19 +18118,19 @@
         "7",
         "",
         "",
-        "7",
-        "50 KO 1 Sub 4 Dec",
+        "8",
+        "60 KO 1 Sub 5 Dec",
         "20 KO 0 Sub 2 Dec",
-        "1",
+        "2",
         "4",
         "1",
-        "4.6",
-        "2854",
-        "2854",
+        "5.8",
+        "2882",
+        "2882",
         "2670",
         "2022-08-13L - Yazmin Jauregui",
-        "2025-08-09W - Angela Hill",
-        "2026-10-24Nicolle Caliari"
+        "2026-10-24W - Nicolle Caliari",
+        ""
       ]
     },
     {
@@ -18944,13 +18944,14 @@
       "fighter_label": "Islam Makhachev",
       "fighter_url": "https://www.roster.watch/fighters/islammakhachev.html",
       "country": "🇷🇺",
-      "age": 34,
+      "age": 35,
       "date_of_birth": "1991-10-27",
-      "age_raw": "34 (1991-10-27)",
+      "age_raw": "35 (1991-10-27)",
       "gender": "Men",
       "gender_raw": "♂️",
       "weight_classes": [
-        "welterweight"
+        "welterweight",
+        "lightweight"
       ],
       "peak_rank": "C",
       "peak_p4p_rank": "C",
@@ -18990,9 +18991,9 @@
       "raw_columns": [
         "Islam Makhachev",
         "🇷🇺",
-        "34 (1991-10-27)",
+        "35 (1991-10-27)",
         "♂️",
-        "welterweight",
+        "welterweight, lightweight",
         "C",
         "C",
         "1",
@@ -19621,23 +19622,23 @@
         "raw": ""
       },
       "losses": {
-        "total": 9,
+        "total": 10,
         "ko_tko": null,
         "submissions": null,
         "decisions": null,
-        "raw": "9"
+        "raw": "10"
       },
       "current_streak": 61,
-      "best_streak": 31,
-      "bonuses": 3,
+      "best_streak": 41,
+      "bonuses": -1,
       "average_card_slot": 3,
       "peak_elo": 0,
-      "average_opponent_elo": 7,
+      "average_opponent_elo": 8,
       "debut": {
         "date": null,
         "result": null,
         "opponent": null,
-        "raw": "2864"
+        "raw": "2844"
       },
       "last_fight": {
         "date": null,
@@ -19655,19 +19656,19 @@
         "",
         "",
         "",
-        "9",
+        "10",
         "61 KO 0 Sub 5 Dec",
-        "31 KO 0 Sub 1 Dec",
-        "3",
+        "41 KO 0 Sub 2 Dec",
+        "-1",
         "3",
         "0",
-        "7.8",
-        "2864",
+        "8.1",
+        "2844",
         "2864",
         "2716",
         "2020-10-24L - Phil Hawes",
-        "2026-05-02W - Gerald Meerschaert",
-        "2026-10-24Abubakar Vagaev"
+        "2026-10-24L - Abubakar Vagaev",
+        ""
       ]
     },
     {
@@ -20856,11 +20857,11 @@
       "peak_p4p_rank": "4",
       "ufc_bouts": null,
       "wins": {
-        "total": 12,
+        "total": 11,
         "ko_tko": null,
         "submissions": null,
         "decisions": null,
-        "raw": "12"
+        "raw": "11"
       },
       "losses": {
         "total": 13,
@@ -20895,8 +20896,8 @@
         "women's flyweight",
         "▲2 4",
         "4",
-        "NEW 12",
-        "12",
+        "NEW 11",
+        "11",
         "13",
         "10 0 KO 3 Sub 7 Dec",
         "3 1 KO 0 Sub 2 Dec",
@@ -21501,9 +21502,9 @@
       "fighter_label": "Jeremiah Wells",
       "fighter_url": "https://www.roster.watch/fighters/jeremiahwells.html",
       "country": "🇺🇸",
-      "age": 39,
+      "age": 40,
       "date_of_birth": "1986-10-30",
-      "age_raw": "39 (1986-10-30)",
+      "age_raw": "40🎂 (1986-10-30)",
       "gender": "Men",
       "gender_raw": "♂️",
       "weight_classes": [
@@ -21547,7 +21548,7 @@
       "raw_columns": [
         "Jeremiah Wells",
         "🇺🇸",
-        "39 (1986-10-30)",
+        "40🎂 (1986-10-30)",
         "♂️",
         "welterweight",
         "",
@@ -22745,9 +22746,9 @@
       "fighter_label": "John Garza",
       "fighter_url": "https://www.roster.watch/fighters/johngarza.html",
       "country": "🇺🇸",
-      "age": 23,
+      "age": 24,
       "date_of_birth": "2002-10-30",
-      "age_raw": "23 (2002-10-30)",
+      "age_raw": "24🎂 (2002-10-30)",
       "gender": "Men",
       "gender_raw": "♂️",
       "weight_classes": [
@@ -22791,7 +22792,7 @@
       "raw_columns": [
         "John Garza",
         "🇺🇸",
-        "23 (2002-10-30)",
+        "24🎂 (2002-10-30)",
         "♂️",
         "bantamweight",
         "",
@@ -24124,10 +24125,10 @@
         "6.7",
         "3429",
         "3429",
-        "2892",
+        "2923",
         "2023-06-24 W - Zhalgas Zhumagulov",
         "2026-09-19 W - Alexandre Pantoja",
-        ""
+        "2027-01-30 Manel Kape"
       ]
     },
     {
@@ -24804,7 +24805,7 @@
       ],
       "peak_rank": "1",
       "peak_p4p_rank": "C",
-      "ufc_bouts": 10,
+      "ufc_bouts": null,
       "wins": {
         "total": 3,
         "ko_tko": null,
@@ -24845,7 +24846,7 @@
         "women's bantamweight",
         "1",
         "C",
-        "10",
+        "▲1 9",
         "3",
         "12",
         "82 KO 2 Sub 4 Dec",
@@ -26186,7 +26187,7 @@
       "country": "🇲🇽🇺🇸",
       "age": 35,
       "date_of_birth": "1991-10-24",
-      "age_raw": "35🎂 (1991-10-24)",
+      "age_raw": "35 (1991-10-24)",
       "gender": "Men",
       "gender_raw": "♂️",
       "weight_classes": [
@@ -26230,7 +26231,7 @@
       "raw_columns": [
         "Kelvin Gastelum 𝙏𝙐𝙁",
         "🇲🇽🇺🇸",
-        "35🎂 (1991-10-24)",
+        "35 (1991-10-24)",
         "♂️",
         "middleweight",
         "",
@@ -27079,29 +27080,29 @@
         "raw": ""
       },
       "losses": {
-        "total": 2,
+        "total": 3,
         "ko_tko": null,
         "submissions": null,
         "decisions": null,
-        "raw": "2"
+        "raw": "3"
       },
-      "current_streak": 10,
+      "current_streak": 21,
       "best_streak": 10,
-      "bonuses": 1,
-      "average_card_slot": 1,
+      "bonuses": 2,
+      "average_card_slot": 2,
       "peak_elo": 1,
-      "average_opponent_elo": 11,
+      "average_opponent_elo": 12,
       "debut": {
         "date": null,
         "result": null,
         "opponent": null,
-        "raw": "2774"
+        "raw": "2871"
       },
       "last_fight": {
         "date": null,
         "result": null,
         "opponent": null,
-        "raw": "2774"
+        "raw": "2871"
       },
       "raw_columns": [
         "Kody Steele CS",
@@ -27113,19 +27114,19 @@
         "",
         "",
         "",
-        "2",
-        "10 KO 1 Sub 0 Dec",
+        "3",
+        "21 KO 1 Sub 0 Dec",
         "10 KO 0 Sub 1 Dec",
+        "2",
+        "2",
         "1",
-        "1",
-        "1",
-        "11.5",
-        "2774",
-        "2774",
+        "12",
+        "2871",
+        "2871",
         "2761",
         "2025-02-08L - Rongzhu",
-        "2026-05-02W - Dom Mar Fan",
-        "2026-10-24Noah Gugnon"
+        "2026-10-24W - Noah Gugnon",
+        ""
       ]
     },
     {
@@ -28320,29 +28321,29 @@
         "raw": ""
       },
       "losses": {
-        "total": 5,
+        "total": 6,
         "ko_tko": null,
         "submissions": null,
         "decisions": null,
-        "raw": "5"
+        "raw": "6"
       },
-      "current_streak": 30,
+      "current_streak": 41,
       "best_streak": 21,
-      "bonuses": -1,
+      "bonuses": 1,
       "average_card_slot": 2,
-      "peak_elo": 2,
-      "average_opponent_elo": 6,
+      "peak_elo": 3,
+      "average_opponent_elo": 5,
       "debut": {
         "date": null,
         "result": null,
         "opponent": null,
-        "raw": "2809"
+        "raw": "2975"
       },
       "last_fight": {
         "date": null,
         "result": null,
         "opponent": null,
-        "raw": "2909"
+        "raw": "2975"
       },
       "raw_columns": [
         "Lone'er Kavanagh CS",
@@ -28354,19 +28355,19 @@
         "6",
         "",
         "",
-        "5",
-        "30 KO 0 Sub 3 Dec",
+        "6",
+        "41 KO 0 Sub 3 Dec",
         "21 KO 1 Sub 0 Dec",
-        "-1",
+        "1",
         "2",
-        "2",
-        "6.2",
-        "2809",
-        "2909",
+        "3",
+        "5.7",
+        "2975",
+        "2975",
         "2844",
         "2024-11-23W - Jose Ochoa",
-        "2026-07-11L - Brandon Royval",
-        "2026-10-24Ramazan Temirov"
+        "2026-10-24W - Ramazan Temirov",
+        ""
       ]
     },
     {
@@ -28466,23 +28467,23 @@
         "raw": ""
       },
       "losses": {
-        "total": 2,
+        "total": 3,
         "ko_tko": null,
         "submissions": null,
         "decisions": null,
-        "raw": "2"
+        "raw": "3"
       },
       "current_streak": 11,
-      "best_streak": 10,
-      "bonuses": 1,
+      "best_streak": 21,
+      "bonuses": -1,
       "average_card_slot": 1,
       "peak_elo": 1,
-      "average_opponent_elo": 7,
+      "average_opponent_elo": 6,
       "debut": {
         "date": null,
         "result": null,
         "opponent": null,
-        "raw": "3081"
+        "raw": "2996"
       },
       "last_fight": {
         "date": null,
@@ -28500,19 +28501,19 @@
         "",
         "",
         "",
-        "2",
+        "3",
         "11 KO 0 Sub 0 Dec",
-        "10 KO 0 Sub 1 Dec",
+        "21 KO 0 Sub 1 Dec",
+        "-1",
         "1",
         "1",
-        "1",
-        "7",
-        "3081",
+        "6.3",
+        "2996",
         "3081",
         "2993",
         "2026-03-21L - Nathaniel Wood",
-        "2026-09-05W - Muhammad Naimov",
-        "2026-10-24Aaron Pico"
+        "2026-10-24L - Aaron Pico",
+        ""
       ]
     },
     {
@@ -28885,9 +28886,9 @@
       "fighter_label": "Lucas Armand",
       "fighter_url": "https://www.roster.watch/fighters/lucasarmand.html",
       "country": "🇺🇸",
-      "age": 30,
+      "age": 31,
       "date_of_birth": "1995-10-26",
-      "age_raw": "30 (1995-10-26)",
+      "age_raw": "31 (1995-10-26)",
       "gender": "Men",
       "gender_raw": "♂️",
       "weight_classes": [
@@ -28931,7 +28932,7 @@
       "raw_columns": [
         "Lucas Armand",
         "🇺🇸",
-        "30 (1995-10-26)",
+        "31 (1995-10-26)",
         "♂️",
         "heavyweight",
         "",
@@ -29021,10 +29022,10 @@
         "11",
         "2525",
         "2525",
-        "2685",
+        "2679",
         "2026-04-25L - Francis Marshall",
         "2026-04-25L - Francis Marshall",
-        "2026-11-07Austin Bashi"
+        ""
       ]
     },
     {
@@ -30558,10 +30559,10 @@
         "5.2",
         "3295",
         "3295",
-        "2864",
+        "2911",
         "2021-02-06 L - Alexandre Pantoja",
         "2026-06-20 W - Kyoji Horiguchi",
-        ""
+        "2027-01-30 Joshua Van"
       ]
     },
     {
@@ -30923,10 +30924,10 @@
         "10",
         "2610",
         "2610",
-        "2437",
+        "2443",
         "2026-03-21W - Antonio Trocoli",
         "2026-03-21W - Antonio Trocoli",
-        "2026-11-07Wes Schultz"
+        "2026-11-07Andre Petroski"
       ]
     },
     {
@@ -33729,23 +33730,23 @@
         "raw": "2"
       },
       "losses": {
-        "total": 17,
+        "total": 18,
         "ko_tko": null,
         "submissions": null,
         "decisions": null,
-        "raw": "17"
+        "raw": "18"
       },
       "current_streak": 14,
-      "best_streak": 3,
-      "bonuses": -1,
+      "best_streak": 4,
+      "bonuses": -2,
       "average_card_slot": 14,
-      "peak_elo": 5,
+      "peak_elo": 6,
       "average_opponent_elo": 4,
       "debut": {
         "date": null,
         "result": null,
         "opponent": null,
-        "raw": "3462"
+        "raw": "3382"
       },
       "last_fight": {
         "date": null,
@@ -33763,19 +33764,19 @@
         "C",
         "9",
         "2",
-        "17",
+        "18",
         "14 1 KO 1 Sub 12 Dec",
-        "3 0 KO 1 Sub 2 Dec",
-        "-1",
+        "4 0 KO 1 Sub 3 Dec",
+        "-2",
         "14",
-        "5",
-        "4.9",
-        "3462",
+        "6",
+        "4.7",
+        "3382",
         "3625",
         "3080",
         "2017-12-09 L - Frankie Saenz",
-        "2025-12-06 L - Petr Yan",
-        "2026-10-24 Petr Yan"
+        "2026-10-24 L - Petr Yan",
+        ""
       ]
     },
     {
@@ -34137,10 +34138,10 @@
         "4.1",
         "3417",
         "3417",
-        "2989",
+        "3048",
         "2022-01-22 W - Trevin Giles",
         "2025-11-15 W - Sean Brady",
-        ""
+        "2027-01-30 Carlos Prates"
       ]
     },
     {
@@ -35391,9 +35392,9 @@
       "fighter_label": "Morgan Charriere",
       "fighter_url": "https://www.roster.watch/fighters/morgancharriere.html",
       "country": "🇫🇷🏴‍☠️",
-      "age": 30,
+      "age": 31,
       "date_of_birth": "1995-10-26",
-      "age_raw": "30 (1995-10-26)",
+      "age_raw": "31 (1995-10-26)",
       "gender": "Men",
       "gender_raw": "♂️",
       "weight_classes": [
@@ -35437,7 +35438,7 @@
       "raw_columns": [
         "Morgan Charriere",
         "🇫🇷🏴‍☠️",
-        "30 (1995-10-26)",
+        "31 (1995-10-26)",
         "♂️",
         "featherweight",
         "",
@@ -35483,23 +35484,23 @@
         "raw": ""
       },
       "losses": {
-        "total": 10,
+        "total": 11,
         "ko_tko": null,
         "submissions": null,
         "decisions": null,
-        "raw": "10"
+        "raw": "11"
       },
       "current_streak": 10,
-      "best_streak": 0,
-      "bonuses": 10,
+      "best_streak": 1,
+      "bonuses": -1,
       "average_card_slot": 10,
       "peak_elo": 1,
-      "average_opponent_elo": 6,
+      "average_opponent_elo": 5,
       "debut": {
         "date": null,
         "result": null,
         "opponent": null,
-        "raw": "3413"
+        "raw": "3324"
       },
       "last_fight": {
         "date": null,
@@ -35517,19 +35518,19 @@
         "1",
         "",
         "",
-        "10",
+        "11",
         "10 0 KO 0 Sub 10 Dec",
-        "0 0 KO 0 Sub 0 Dec",
-        "10",
+        "1 1 KO 0 Sub 0 Dec",
+        "-1",
         "10",
         "1",
-        "6.4",
-        "3413",
+        "5.9",
+        "3324",
         "3413",
         "2966",
         "2019-04-20 W - SeungWoo Choi",
-        "2026-03-21 W - Lerone Murphy",
-        "2026-10-24 Alexander Volkanovski"
+        "2026-10-24 L - Alexander Volkanovski",
+        ""
       ]
     },
     {
@@ -36797,23 +36798,23 @@
         "raw": ""
       },
       "losses": {
-        "total": 3,
+        "total": 4,
         "ko_tko": null,
         "submissions": null,
         "decisions": null,
-        "raw": "3"
+        "raw": "4"
       },
       "current_streak": 10,
-      "best_streak": 21,
-      "bonuses": 1,
+      "best_streak": 31,
+      "bonuses": -1,
       "average_card_slot": 1,
       "peak_elo": 0,
-      "average_opponent_elo": 12,
+      "average_opponent_elo": 13,
       "debut": {
         "date": null,
         "result": null,
         "opponent": null,
-        "raw": "2540"
+        "raw": "2512"
       },
       "last_fight": {
         "date": null,
@@ -36831,19 +36832,19 @@
         "",
         "",
         "",
-        "3",
+        "4",
         "10 KO 1 Sub 0 Dec",
-        "21 KO 0 Sub 1 Dec",
-        "1",
+        "31 KO 0 Sub 2 Dec",
+        "-1",
         "1",
         "0",
-        "12.7",
-        "2540",
+        "13",
+        "2512",
         "2540",
         "2545",
         "2025-01-11L - Ernesta Kareckaite",
-        "2026-05-16W - Shauna Bannon",
-        "2026-10-24Iasmin Lucindo"
+        "2026-10-24L - Iasmin Lucindo",
+        ""
       ]
     },
     {
@@ -36870,15 +36871,15 @@
         "raw": ""
       },
       "losses": {
-        "total": 22,
+        "total": 23,
         "ko_tko": null,
         "submissions": null,
         "decisions": null,
-        "raw": "22"
+        "raw": "23"
       },
       "current_streak": 125,
-      "best_streak": 104,
-      "bonuses": -1,
+      "best_streak": 115,
+      "bonuses": -2,
       "average_card_slot": 5,
       "peak_elo": 1,
       "average_opponent_elo": 6,
@@ -36886,7 +36887,7 @@
         "date": null,
         "result": null,
         "opponent": null,
-        "raw": "2981"
+        "raw": "2848"
       },
       "last_fight": {
         "date": null,
@@ -36904,19 +36905,19 @@
         "5",
         "",
         "",
-        "22",
+        "23",
         "125 KO 5 Sub 2 Dec",
-        "104 KO 4 Sub 2 Dec",
-        "-1",
+        "115 KO 4 Sub 2 Dec",
+        "-2",
         "5",
         "1",
         "6",
-        "2981",
+        "2848",
         "3198",
         "2863",
         "2013-08-31L - Soa Palelei",
-        "2026-07-11L - Robert Whittaker",
-        "2026-10-24Abdul Rakhman Yakhyaev"
+        "2026-10-24L - Abdul Rakhman Yakhyaev",
+        ""
       ]
     },
     {
@@ -37235,23 +37236,23 @@
         "raw": ""
       },
       "losses": {
-        "total": 1,
+        "total": 2,
         "ko_tko": null,
         "submissions": null,
         "decisions": null,
-        "raw": "1"
+        "raw": "2"
       },
       "current_streak": 10,
-      "best_streak": 0,
-      "bonuses": 1,
+      "best_streak": 11,
+      "bonuses": -1,
       "average_card_slot": 1,
       "peak_elo": 0,
-      "average_opponent_elo": 6,
+      "average_opponent_elo": 9,
       "debut": {
         "date": null,
         "result": null,
         "opponent": null,
-        "raw": "2762"
+        "raw": "2666"
       },
       "last_fight": {
         "date": null,
@@ -37269,19 +37270,19 @@
         "",
         "",
         "",
-        "1",
+        "2",
         "10 KO 1 Sub 0 Dec",
-        "00 KO 0 Sub 0 Dec",
-        "1",
+        "11 KO 0 Sub 0 Dec",
+        "-1",
         "1",
         "0",
-        "6",
-        "2762",
+        "9.5",
+        "2666",
         "2762",
         "2785",
         "2026-08-01W - Milos Janicic",
-        "2026-08-01W - Milos Janicic",
-        "2026-10-24Kody Steele"
+        "2026-10-24L - Kody Steele",
+        ""
       ]
     },
     {
@@ -37527,23 +37528,23 @@
         "raw": ""
       },
       "losses": {
-        "total": 4,
+        "total": 5,
         "ko_tko": null,
         "submissions": null,
         "decisions": null,
-        "raw": "4"
+        "raw": "5"
       },
       "current_streak": 40,
-      "best_streak": 0,
-      "bonuses": 4,
+      "best_streak": 10,
+      "bonuses": -1,
       "average_card_slot": 4,
       "peak_elo": 0,
-      "average_opponent_elo": 12,
+      "average_opponent_elo": 11,
       "debut": {
         "date": null,
         "result": null,
         "opponent": null,
-        "raw": "3031"
+        "raw": "2957"
       },
       "last_fight": {
         "date": null,
@@ -37561,19 +37562,19 @@
         "",
         "",
         "",
-        "4",
+        "5",
         "40 KO 0 Sub 4 Dec",
-        "00 KO 0 Sub 0 Dec",
-        "4",
+        "10 KO 0 Sub 1 Dec",
+        "-1",
         "4",
         "0",
-        "12",
-        "3031",
+        "11.4",
+        "2957",
         "3031",
         "2841",
         "2023-02-25W - Rafael Alves",
-        "2026-07-25W - Mike Davis",
-        "2026-10-24Grant Dawson"
+        "2026-10-24L - Grant Dawson",
+        ""
       ]
     },
     {
@@ -38625,29 +38626,29 @@
         "raw": "3"
       },
       "losses": {
-        "total": 16,
+        "total": 17,
         "ko_tko": null,
         "submissions": null,
         "decisions": null,
-        "raw": "16"
+        "raw": "17"
       },
-      "current_streak": 12,
+      "current_streak": 13,
       "best_streak": 4,
-      "bonuses": 4,
+      "bonuses": 5,
       "average_card_slot": 7,
-      "peak_elo": 5,
+      "peak_elo": 6,
       "average_opponent_elo": 3,
       "debut": {
         "date": null,
         "result": null,
         "opponent": null,
-        "raw": "3532"
+        "raw": "3612"
       },
       "last_fight": {
         "date": null,
         "result": null,
         "opponent": null,
-        "raw": "3532"
+        "raw": "3612"
       },
       "raw_columns": [
         "Petr Yan",
@@ -38659,19 +38660,19 @@
         "C",
         "4",
         "3",
-        "16",
-        "12 4 KO 0 Sub 8 Dec",
+        "17",
+        "13 4 KO 0 Sub 9 Dec",
         "4 0 KO 0 Sub 3 Dec",
-        "4",
-        "7",
         "5",
-        "3.5",
-        "3532",
-        "3532",
+        "7",
+        "6",
+        "3.4",
+        "3612",
+        "3612",
         "3083",
         "2018-06-23 W - Teruto Ishihara",
-        "2025-12-06 W - Merab Dvalishvili",
-        "2026-10-24 Merab Dvalishvili"
+        "2026-10-24 W - Merab Dvalishvili",
+        ""
       ]
     },
     {
@@ -38752,9 +38753,9 @@
       "fighter_label": "Piero Guaylupo CS",
       "fighter_url": "https://www.roster.watch/fighters/pieroguaylupo.html",
       "country": "🇵🇪",
-      "age": 21,
+      "age": 22,
       "date_of_birth": "2004-10-29",
-      "age_raw": "21 (2004-10-29)",
+      "age_raw": "22 (2004-10-29)",
       "gender": "Men",
       "gender_raw": "♂️",
       "weight_classes": [
@@ -38798,7 +38799,7 @@
       "raw_columns": [
         "Piero Guaylupo CS",
         "🇵🇪",
-        "21 (2004-10-29)",
+        "22 (2004-10-29)",
         "♂️",
         "lightweight",
         "",
@@ -39325,10 +39326,10 @@
         "6.3",
         "3290",
         "3290",
-        "2889",
+        "2935",
         "2025-02-08 W - Anshul Jubli",
         "2026-08-08 W - Mateusz Gamrot",
-        ""
+        "2027-02-07 Benoit Saint Denis"
       ]
     },
     {
@@ -39409,9 +39410,9 @@
       "fighter_label": "Rafael Dos Anjos",
       "fighter_url": "https://www.roster.watch/fighters/rafaeldosanjos.html",
       "country": "🇧🇷🇺🇸",
-      "age": 41,
+      "age": 42,
       "date_of_birth": "1984-10-26",
-      "age_raw": "41 (1984-10-26)",
+      "age_raw": "42 (1984-10-26)",
       "gender": "Men",
       "gender_raw": "♂️",
       "weight_classes": [
@@ -39456,7 +39457,7 @@
       "raw_columns": [
         "Rafael Dos Anjos",
         "🇧🇷🇺🇸",
-        "41 (1984-10-26)",
+        "42 (1984-10-26)",
         "♂️",
         "lightweight, welterweight",
         "",
@@ -39721,23 +39722,23 @@
         "raw": ""
       },
       "losses": {
-        "total": 3,
+        "total": 4,
         "ko_tko": null,
         "submissions": null,
         "decisions": null,
-        "raw": "3"
+        "raw": "4"
       },
       "current_streak": 32,
-      "best_streak": 0,
-      "bonuses": 3,
+      "best_streak": 11,
+      "bonuses": -1,
       "average_card_slot": 3,
       "peak_elo": 2,
-      "average_opponent_elo": 6,
+      "average_opponent_elo": 5,
       "debut": {
         "date": null,
         "result": null,
         "opponent": null,
-        "raw": "3082"
+        "raw": "2917"
       },
       "last_fight": {
         "date": null,
@@ -39755,19 +39756,19 @@
         "10",
         "",
         "",
-        "3",
+        "4",
         "32 KO 0 Sub 1 Dec",
-        "00 KO 0 Sub 0 Dec",
-        "3",
+        "11 KO 0 Sub 0 Dec",
+        "-1",
         "3",
         "2",
-        "6",
-        "3082",
+        "5.2",
+        "2917",
         "3082",
         "2845",
         "2024-10-12W - CJ Vergara",
-        "2026-07-25W - Steve Erceg",
-        "2026-10-24Lone'er Kavanagh"
+        "2026-10-24L - Lone'er Kavanagh",
+        ""
       ]
     },
     {
@@ -40223,7 +40224,7 @@
       ],
       "peak_rank": "▼1 5",
       "peak_p4p_rank": "C",
-      "ufc_bouts": null,
+      "ufc_bouts": 13,
       "wins": {
         "total": 5,
         "ko_tko": null,
@@ -40264,7 +40265,7 @@
         "women's bantamweight",
         "▼1 5",
         "C",
-        "▼1 14",
+        "13",
         "5",
         "19",
         "130 KO 3 Sub 10 Dec",
@@ -41038,15 +41039,15 @@
         "raw": ""
       },
       "losses": {
-        "total": 3,
+        "total": 4,
         "ko_tko": null,
         "submissions": null,
         "decisions": null,
-        "raw": "3"
+        "raw": "4"
       },
       "current_streak": 2,
-      "best_streak": 1,
-      "bonuses": 2,
+      "best_streak": 2,
+      "bonuses": -1,
       "average_card_slot": 2,
       "peak_elo": 1,
       "average_opponent_elo": 3,
@@ -41054,7 +41055,7 @@
         "date": null,
         "result": null,
         "opponent": null,
-        "raw": "3171"
+        "raw": "3127"
       },
       "last_fight": {
         "date": null,
@@ -41072,19 +41073,19 @@
         "6",
         "",
         "",
-        "3",
+        "4",
         "2 1 KO 0 Sub 1 Dec",
-        "1 0 KO 0 Sub 1 Dec",
-        "2",
+        "2 0 KO 0 Sub 2 Dec",
+        "-1",
         "2",
         "1",
-        "3.3",
-        "3171",
+        "3.5",
+        "3127",
         "3171",
         "3205",
         "2025-06-21 L - Curtis Blaydes",
-        "2026-07-25 W - Tyrell Fortune",
-        "2026-10-24 Alexander Volkov"
+        "2026-10-24 L - Alexander Volkov",
+        ""
       ]
     },
     {
@@ -42482,9 +42483,9 @@
       "fighter_label": "Roque Conceicao CS",
       "fighter_url": "https://www.roster.watch/fighters/roqueconceicao.html",
       "country": "🇧🇷",
-      "age": 26,
+      "age": 27,
       "date_of_birth": "1999-10-27",
-      "age_raw": "26 (1999-10-27)",
+      "age_raw": "27 (1999-10-27)",
       "gender": "Men",
       "gender_raw": "♂️",
       "weight_classes": [
@@ -42528,7 +42529,7 @@
       "raw_columns": [
         "Roque Conceicao CS",
         "🇧🇷",
-        "26 (1999-10-27)",
+        "27 (1999-10-27)",
         "♂️",
         "flyweight",
         "",
@@ -42565,7 +42566,7 @@
       ],
       "peak_rank": "▼1 6",
       "peak_p4p_rank": "C",
-      "ufc_bouts": null,
+      "ufc_bouts": 12,
       "wins": {
         "total": 2,
         "ko_tko": null,
@@ -42606,7 +42607,7 @@
         "women's flyweight",
         "▼1 6",
         "C",
-        "▼1 13",
+        "12",
         "2",
         "19",
         "122 KO 3 Sub 7 Dec",
@@ -43798,7 +43799,7 @@
       "country": "🇺🇸",
       "age": 32,
       "date_of_birth": "1994-10-24",
-      "age_raw": "32🎂 (1994-10-24)",
+      "age_raw": "32 (1994-10-24)",
       "gender": "Men",
       "gender_raw": "♂️",
       "weight_classes": [
@@ -43842,7 +43843,7 @@
       "raw_columns": [
         "Sean O'Malley CS",
         "🇺🇸",
-        "32🎂 (1994-10-24)",
+        "32 (1994-10-24)",
         "♂️",
         "bantamweight",
         "2",
@@ -44662,10 +44663,10 @@
         "13",
         "2614",
         "2614",
-        "2432",
+        "2544",
         "2026-03-21W - Ravena Oliveira",
         "2026-08-22W - Elise Reed",
-        ""
+        "2026-12-12Angela Hill"
       ]
     },
     {
@@ -47439,10 +47440,10 @@
         "9",
         "2646",
         "2690",
-        "2713",
+        "2694",
         "2024-02-03L - Jamal Pogues",
         "2026-07-25L - Valter Walker",
-        ""
+        "2026-11-07Gabriel Lorenco"
       ]
     },
     {
@@ -47826,7 +47827,7 @@
       ],
       "peak_rank": "1",
       "peak_p4p_rank": "C",
-      "ufc_bouts": null,
+      "ufc_bouts": 8,
       "wins": {
         "total": 6,
         "ko_tko": null,
@@ -47867,7 +47868,7 @@
         "heavyweight",
         "1",
         "C",
-        "▲1 7",
+        "8",
         "6",
         "10",
         "8 6 KO 2 Sub 0 Dec",
@@ -48110,7 +48111,7 @@
       "country": "🇺🇸",
       "age": 28,
       "date_of_birth": "1998-10-24",
-      "age_raw": "28🎂 (1998-10-24)",
+      "age_raw": "28 (1998-10-24)",
       "gender": "Men",
       "gender_raw": "♂️",
       "weight_classes": [
@@ -48154,7 +48155,7 @@
       "raw_columns": [
         "Torrez Finney CS",
         "🇺🇸",
-        "28🎂 (1998-10-24)",
+        "28 (1998-10-24)",
         "♂️",
         "middleweight",
         "",
@@ -49279,9 +49280,9 @@
       "fighter_label": "Veronica Hardy",
       "fighter_url": "https://www.roster.watch/fighters/veronicahardy.html",
       "country": "🇬🇧🏴󠁧󠁢󠁥󠁮󠁧󠁿🇵🇹🇻🇪",
-      "age": 30,
+      "age": 31,
       "date_of_birth": "1995-10-30",
-      "age_raw": "30 (1995-10-30)",
+      "age_raw": "31🎂 (1995-10-30)",
       "gender": "Women",
       "gender_raw": "♀️",
       "weight_classes": [
@@ -49325,7 +49326,7 @@
       "raw_columns": [
         "Veronica Hardy",
         "🇬🇧🏴󠁧󠁢󠁥󠁮󠁧󠁿🇵🇹🇻🇪",
-        "30 (1995-10-30)",
+        "31🎂 (1995-10-30)",
         "♀️",
         "women's flyweight",
         "",
@@ -49656,7 +49657,7 @@
       ],
       "peak_rank": "3",
       "peak_p4p_rank": "1",
-      "ufc_bouts": 11,
+      "ufc_bouts": null,
       "wins": {
         "total": 8,
         "ko_tko": null,
@@ -49697,7 +49698,7 @@
         "women's strawweight",
         "3",
         "1",
-        "11",
+        "▲1 10",
         "8",
         "13",
         "91 KO 3 Sub 5 Dec",
@@ -50219,10 +50220,10 @@
         "12",
         "2492",
         "2601",
-        "2594",
+        "2589",
         "2026-02-28L - Damian Pinas",
         "2026-08-22L - Jackson McVey",
-        "2026-11-07Mantas Kondratavicius"
+        ""
       ]
     },
     {

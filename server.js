@@ -1,16 +1,18 @@
-
 const express = require("express");
 const crypto = require("crypto");
 const path = require("path");
 const fs = require("fs");
 
-const { run, get, all, ready } = require("./database");
+const { run, get, all, ready } = require("./src/db/database");
 
 const app = express();
 const PORT = process.env.PORT || 3000;
 const SESSION_DURATION = 7 * 24 * 60 * 60 * 1000;
 
 app.use(express.json({ limit: "25kb" }));
+
+// Serve CSS, browser JavaScript, images, and other public assets.
+app.use(express.static(path.join(__dirname, "public")));
 
 // Helpers for safer password and session handling.
 function hashPassword(password) {
@@ -414,7 +416,7 @@ app.patch("/api/rosters/:id", requireLogin, asyncRoute(async (req, res) => {
 
 // Read fighter names from your existing scraper output.
 function getFighterNames() {
-    const file = path.join(__dirname, "ufc_roster.json");
+    const file = path.join(__dirname, "data", "ufc_roster.json");
     const data = JSON.parse(fs.readFileSync(file, "utf8"));
     return new Set((data.fighters || []).map(f => f.name));
 }
@@ -485,56 +487,40 @@ app.delete("/api/rosters/:id/fighters", requireLogin,
 // PUBLIC FIGHTER DATA AND PAGES
 // ------------------------------
 
-app.get("/api/fighters", (req, res) => {
-    res.sendFile(path.join(__dirname, "ufc_roster.json"));
-});
+// Return the scraped fighter data.
+ app.get("/api/fighters", (req, res) => {
+     res.sendFile(
+         path.join(__dirname, "data", "ufc_roster.json")
+     );
+ });
 
-// Only expose explicitly approved frontend files.
-const publicFiles = [
-    "index.html",
-    "fighterlist.html",
-    "leagues.html",
-    "rankings.html",
-    "events.html",
-    "myteam.html",
-    "styles.css",
-    "auth.js",
-    "pages.js",
-    "fighterlist.js",
-    "app.js",
-    "ufc_roster.json"
-];
+ // Location of our HTML pages.
+ const viewsPath = path.join(__dirname, "views");
 
-for (const filename of publicFiles) {
-    app.get("/" + filename, (req, res) => {
-        res.sendFile(path.join(__dirname, filename));
-    });
-}
+ // Helper for serving individual pages.
+ function servePage(filename) {
+     return (req, res) => {
+         res.sendFile(path.join(viewsPath, filename));
+     };
+ }
 
-app.get("/", (req, res) => {
-    res.sendFile(path.join(__dirname, "index.html"));
-});
+ // Home
+ app.get("/", servePage("index.html"));
 
+ // Rankings
+ app.get("/rankings", servePage("rankings.html"));
 
-app.get("/leagues", (req, res) => {
-    res.sendFile(path.join(__dirname, "leagues.html"));
-});
+ // Fighter List
+ app.get("/fighterlist", servePage("fighterlist.html"));
 
-app.get("/myteam", (req, res) => {
-    res.sendFile(path.join(__dirname, "myteam.html"));
-});
+ // Leagues
+ app.get("/leagues", servePage("leagues.html"));
 
-app.get("/rankings", (req, res) => {
-    res.sendFile(path.join(__dirname, "rankings.html"));
-});
+ // My Team
+ app.get("/myteam", servePage("myteam.html"));
 
-app.get("/events", (req, res) => {
-    res.sendFile(path.join(__dirname, "events.html"));
-});
-
-app.get("/fighterlist", (req, res) => {
-    res.sendFile(path.join(__dirname, "fighterlist.html"));
-});
+ // Events
+ app.get("/events", servePage("events.html"));
 
 // Error handler.
 app.use((error, req, res, next) => {

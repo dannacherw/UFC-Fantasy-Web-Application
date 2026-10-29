@@ -1,5 +1,6 @@
 const { chromium } = require("playwright");
 const fs = require("fs");
+const path = require("path");
 
 const ROSTER_URL = "https://www.roster.watch/";
 
@@ -468,18 +469,20 @@ async function scrapeRoster() {
         uniqueFighters
     };
 
+    
     fs.writeFileSync(
-      "./ufc_roster.json",
-      JSON.stringify(
-        dataset,
-        null,
-        2
-      ),
-      "utf8"
+        path.join(__dirname, "..", "data", "ufc_roster.json"),
+        JSON.stringify(
+            dataset,
+            null,
+            2
+        ),
+        "utf8"
     );
 
+
     console.log(
-      `Saved ${uniqueFighters.length} fighters to ufc_roster.json`
+      `Saved ${uniqueFighters.length} fighters to data/ufc_roster.json`
     );
   } finally {
     await browser.close();

@@ -101,19 +101,19 @@ function homePage() {
             <article class="panel">
                 <h2>My Leagues</h2>
                 <p>Create leagues or join your friends.</p>
-                <a href="leagues.html">Manage Leagues</a>
+                <a href="/leagues">Manage Leagues</a>
             </article>
 
             <article class="panel">
                 <h2>My Rosters</h2>
                 <p>Choose fighters for each league.</p>
-                <a href="myteam.html">Manage Rosters</a>
+                <a href="/myteam">Manage Rosters</a>
             </article>
 
             <article class="panel">
                 <h2>Rankings</h2>
                 <p>See how your teams compare.</p>
-                <a href="rankings.html">View Rankings</a>
+                <a href="/rankings">View Rankings</a>
             </article>
         </section>
     `;
@@ -156,7 +156,7 @@ async function leaguesPage() {
                         <p>Invite Code:
                             <strong>${escapeHTML(league.invite_code)}</strong>
                         </p>
-                        <a href="rankings.html?league=${league.id}">
+                        <a href="/rankings?league=${league.id}">
                             View Rankings
                         </a>
                     </article>
@@ -221,7 +221,7 @@ async function rosterPage() {
             `).join("")
             : `
                 <p>No rosters yet. Create or join a league first.</p>
-                <a href="leagues.html">Go to Leagues</a>
+                <a href="/leagues">Go to Leagues</a>
             `
         }
 
@@ -403,7 +403,7 @@ async function rankingsPage() {
     document.querySelector("#league-choice").onchange =
         event => {
             window.location.href =
-                "rankings.html?league=" + event.target.value;
+                "/rankings?league=" + event.target.value;
         };
 }
 

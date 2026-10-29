@@ -81,7 +81,7 @@ async function refreshAuth() {
         logout.onclick = async () => {
             try {
                 await post("/api/auth/logout", {});
-                window.location.href = "index.html";
+                window.location.href = "/";
             } catch (error) {
                 setNotice(error.message, true);
             }

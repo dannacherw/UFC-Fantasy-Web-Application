@@ -2,7 +2,8 @@ const sqlite3 = require("sqlite3").verbose();
 const fs = require("fs");
 const path = require("path");
 
-const dataFolder = path.join(__dirname, "data");
+// Go up two folders to the project's data directory
+const dataFolder = path.join(__dirname, "..", "..", "data");
 
 fs.mkdirSync(dataFolder, { recursive: true });
 

@@ -1,5 +1,5 @@
-// Load the UFC roster JSON file
-fetch("./ufc_roster.json")
+// Load the UFC roster data through our Express API.
+fetch("/api/fighters")
     .then(response => {
         if (!response.ok) {
             throw new Error(`HTTP error: ${response.status}`);
